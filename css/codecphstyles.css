@@ -128,13 +128,13 @@ header a.menu:hover {
 }
 
 .darkbox {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Open Sans Condensed', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #4b4b4b url(../images/4b4b4b.png) 0 0 repeat-x;  
   max-width: 100%;
   width: 100%;
   color: #FFFFFF;
-  padding: 5px;
-  
+  padding: 12px;
+  font-size: 130%;
   
 }
 
