@@ -29,6 +29,11 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
+header, h1, h2, h3, h4, h5, h6, .darkbox, .greenbox, .menu, a.button{
+  font-family: 'Open Sans Condensed', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
 body {
 	line-height: 1;
 }
@@ -59,7 +64,7 @@ body {
 }
 
 a {
-  color: #569d1b;
+  color: #ef9025;
 }
 
 a:hover {
@@ -73,11 +78,17 @@ a:hover {
 
 
 header {
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
-  background: #2e7bcf url(../images/josra.00adef.png) 0 0 repeat-x;
+  padding-top: 0px;
+  padding-bottom: 0px;
   border-bottom: solid 1px #275da1;
+  background: #5b9b3d url("/images/TopName.jpg") no-repeat top center;
+  height: 215px;
+}
+
+.menubar {
+  position: relative;
+  background: #000000;
+  height: 30px;
 }
 
 header h1 {
@@ -112,6 +123,20 @@ header .menu {
   font-size: 14px;
 }
 
+.menubar .menu {
+  float: left;
+  margin-left: 5px;
+  margin-top: 0px;
+  padding-top: 0px;
+  width: 120px;
+  color: #fe950d;
+  height: 26px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 130%;
+  font-weight: bold;
+}
+
 header a.menu {
   color: #fff;
 }
@@ -128,15 +153,27 @@ header a.menu:hover {
 }
 
 .darkbox {
-  font-family: 'Open Sans Condensed', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #4b4b4b url(../images/4b4b4b.png) 0 0 repeat-x;  
-  max-width: 100%;
+  background: #4b4b4b url(../images/4b4b4b.png) 0 0 repeat;  
+  max-width: 250px;
   width: 100%;
   color: #FFFFFF;
   padding: 12px;
   font-size: 130%;
   
 }
+
+.greenbox {
+  background: #5b9b3d url(../images/5b9b3d.png) 0 0 repeat;  
+  max-width: 250px;
+  width: 100%;
+  color: #FFFFFF;
+  padding: 12px;
+  font-size: 130%;
+  
+}
+
+
+
 
 #content-wrapper {
   border-top: solid 1px #fff;
@@ -145,6 +182,11 @@ header a.menu:hover {
 
 #main-content {
   width: 690px;
+  float: left;
+}
+
+#main-content.agenda{
+  width: 890px;
   float: left;
 }
 
@@ -179,7 +221,6 @@ a.button {
   color: #fff;
   padding-left: 68px;
   padding-top: 22px;
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
 }
 a.button small {
   display: block;
@@ -265,92 +306,44 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 #main-content h1 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size: 2.8em;
   letter-spacing: -1px;
   color: #474747;
 } 
 
-#main-content h1:before {
-  content: "::";
-  color: #ff950d;
-  padding-right: 0.3em;
-  margin-left: -0.95em;
-  font-size: larger;
-}
 
 #main-content h2 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 8px;
   color: #474747;
 } 
-#main-content h2:before {
-  content: "::";
-  color: #ff950d;
-  padding-right: 0.3em;
-  margin-left: -1.2em;
-  font-size: larger;
-}
 
 #main-content h3 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size: 18px;
   font-weight: bold;
   margin-top: 24px;
   margin-bottom: 8px;
   color: #474747;
 } 
- 
-#main-content h3:before {
-  content: "::";
-  color: #ff950d;
-  padding-right: 0.3em;
-  margin-left: -1.3em;
-  font-size: larger;
-}
 
 #main-content h4 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size: 15px;
   font-weight: bold;
   color: #474747;
 } 
 
-h4:before {
-  content: "::";
-  color: #ff950d;
-  padding-right: 0.3em;
-  margin-left: -1.4em;
-  font-size: larger;
-}
-
 #main-content h5 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
   font-size: 14px;
   color: #474747;
 } 
-h5:before {
-  content: "::";
-  color: #ff950d;
-  padding-right: 0.3em;
-  margin-left: -1.4em;
-  font-size: larger;
-}
 
 #main-content h6 {
-  font-family: 'Skranji', 'Helvetica Neue', Helvetica, Arial, serif; 
-  font-size: .8em;
-  color: #474747;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #5b9b3d;
 } 
-h6:before {
-  content: "::";
-  color: #ff950d;
-  padding-right: 0.3em;
-  margin-left: -1.4em;
-  font-size: larger;
-}
 
 p {
   margin-bottom: 20px;
@@ -461,18 +454,14 @@ footer a:hover {
   header h2 {
     font-size: 30px;
   }
+  
+  .menubar{
+    height: 60px;
+  
+  }
+  
   #main-content {
     width: 490px;
-  }
-  #main-content h1:before,
-  #main-content h2:before,
-  #main-content h3:before,
-  #main-content h4:before,
-  #main-content h5:before,
-  #main-content h6:before {
-    content: none;
-    padding-right: 0;
-    margin-left: 0;
   }
    .stdright,
    .stdleft,
@@ -486,9 +475,7 @@ footer a:hover {
   .inner {
     width: 93%;
   }
-  header {
-    padding: 20px 0;
-  }
+  
   header .inner {
     position: relative;
   }
@@ -520,6 +507,12 @@ footer a:hover {
     font-size: 13px;
     display: inline;
   }
+  
+  .menubar{
+    height: 60px;
+  
+  }
+  
   header a.menu {
     height: auto;
     display: inline-block;
@@ -550,18 +543,8 @@ footer a:hover {
   .stdright,
   .stdleft,
   .stdcenter {
-   width:200px;
-   float:none; 
-}
-  #main-content h1:before,
-  #main-content h2:before,
-  #main-content h3:before,
-  #main-content h4:before,
-  #main-content h5:before,
-  #main-content h6:before {
-    content: none;
-    padding-right: 0;
-    margin-left: 0;
+    width:200px;
+    float:none; 
   }
 }
 
