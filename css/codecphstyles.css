@@ -154,7 +154,7 @@ header a.menu:hover {
 
 .darkbox {
   background: #4b4b4b url(../images/4b4b4b.png) 0 0 repeat;  
-  max-width: 250px;
+  max-width: 200px;
   width: 100%;
   color: #FFFFFF;
   padding: 12px;
@@ -164,7 +164,7 @@ header a.menu:hover {
 
 .greenbox {
   background: #5b9b3d url(../images/5b9b3d.png) 0 0 repeat;  
-  max-width: 250px;
+  max-width: 200px;
   width: 100%;
   color: #FFFFFF;
   padding: 12px;
