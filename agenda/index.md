@@ -1,7 +1,7 @@
 ---
 layout: agenda
-title: CoDe & DevOps Conference?
----
+title: CoDe & DevOps Conference
+
 #Continuous Delivery & DevOps Copenhagen - 2014 
 # Agenda
 
