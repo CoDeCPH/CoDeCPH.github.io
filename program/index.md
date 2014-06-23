@@ -42,7 +42,7 @@ Pretested commits is the second most wanted feature in the Jenkins community. Fo
 
 <h2 id="favorite_plugins">Our Favorite Plugins</h2>
 
-_<a href="/speakers/#bue">Bue Petersen</a>, Praqma_
+_[Bue Petersen](/speakers/#bue), Praqma_
 
 A facilitated discussion and demonstration of the most popular <em>must-have</em> plugins. Bue will demonstrate our favorites and you are encourged to join this birds-of-a-feather session and advodate for your own favorites as well. Feel like doing a short demo yourself? Contact<a href="mailto:events@praqma.com"> events@praqma.com</a> for a stand on the podium.
 
