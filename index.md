@@ -3,26 +3,28 @@ layout: front
 title: CoDe CPH Conference 2014 Front
 ---
 
-<div class="subheading"> 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
-</div>
+##FINALLY! Copenhagen have its own Continuous Delivery & DevOps Conference.
 
-######IN ENIM RHONCUS UT, IMPRIDIE A, VENTIRASK VITAE JUSTO. NULLAM DICTUM FELIS EU PEDE SED MOLLLIS PRETIUM.  
 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. 
+####Held October 22nd, 2014 at the Marriott Hotel Copenhagen.<br/><br/>
+Come and join us at the new Continuous Delivery & DevOps Conference 2014.<br/><br/>
+[*Register here*](https://www.eventbrite.com/e/continuous-delivery-devops-conference-copenhagen-2014-tickets-11839553423)<br/>
+<br/>
+**Dont miss this opportunity!** Enjoy the perfect venue at Hotel Marriott Copenhagen to meetup with your peers for new experiences, knowledge sharing, and network.
+<br/>
 
-##Phasellus viverra nulla ut metus varius laoreet. 
+<a href="http://cdmi.praqma.net/">
+<img src="/images/maturity_model_web.png" class="stdcenter" style="width:500.">
+</a>
 
-* Quisque rutrum. Aenean imperdiet. 
-* Etiam ultricies nisi vel augue. 
-* Curabitur ullamcorper ultricies nisi. Nam eget dui. 
-* Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
+**This event is relevant to :<br/>**
+IT executives, IT managers, Software architects, Project Managers, Agile coaches, System administrators <br/>
+*- everybody who wants to understand the role of Continuous Delivery and DevOps in achieving the goals of agility, quality and time-to-market in software development.*
+<br/>
 
-<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Nam quam nunc, blandit vel, luctus pulvinar.</span> Hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. 
 
-##Sed consequat, leo eget bibendum sodales.
-Augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. 
+[*Register here*](https://www.eventbrite.com/e/continuous-delivery-devops-conference-copenhagen-2014-tickets-11839553423)<br/>
 
-Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. 
+**We look forward to welcoming you to the conference - see you there.**
 
-[SIGN UP](http://www.praqma.com) Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. 
+

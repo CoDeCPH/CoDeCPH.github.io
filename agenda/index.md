@@ -1,18 +1,21 @@
 ---
 layout: agenda
 title: CoDe & DevOps Conference
-
+---
 #Continuous Delivery & DevOps Copenhagen - 2014 
-# Agenda
+
+##Agenda
 
   <a href="/events/jciusrcph13">
-  <img src="http://www.praqma.com/sites/default/files/ci_user_2013_logo.png" style="float: right;">
+  <img src="/images/codeu_logo_hvid_conference 2014.png" class="test" style="float: right;">
   </a>
   The times in the program are preliminary and may still change before the conference, but the content is decided, we hope you like it!
 
 
 <p>
-  Enjoy! See you at the conference!
+
+Enjoy! See you at the conference!
+
 </p>
 <div class="container">
   <div class="agenda-row">
@@ -40,7 +43,7 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">10:15</div>
     <div class="agenda-column agenda-1col agenda-item">
       <a href="/program/#jci_state_of_union">Keynote: Stay tuned - will soon be announced</a><br />
-      <em>??, Title, Company</em>
+      <em>Name & Title, Company</em>
     </div>
   </div>
   <div class="agenda-row">
@@ -51,7 +54,7 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">11:15</div>
     <div class="agenda-column agenda-1col agenda-item">
       <a href="/program/#cd_whats_the_point">Keynote: Stay tuned - will soon be announced</a><br />
-      <em>??, Title, Company</em>
+      <em>Name & Title, Company</em>
     </div>
   </div>
   <div class="agenda-row">
@@ -78,12 +81,12 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">13:15</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
       <a href="/program/#CI_early_n_often">
-      Theme <br />Header
+    Header
       </a><br />
-      <em>??, Title, Company</em>
+      <em>Name & Title, Company</em>
     </div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/program/#jci_assisted_reviews">Theme <br />Header</a><br /><em>??, Title, Company</em>
+      <a href="/program/#jci_assisted_reviews">Header</a><br /><em>Name & Title, Company</em>
     </div>
   </div>
   <div class="agenda-row">
@@ -92,8 +95,8 @@ title: CoDe & DevOps Conference
   </div>
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">14:10</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#jci_in_the_startup_chaos">Header</a><br /><em>??, Title, Company<br />&nbsp;</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#solving_pretested_commits">Header</a><br /><em>??, Title, Company</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#jci_in_the_startup_chaos">Header</a><br /><em>Name & Title, Company &nbsp;</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#solving_pretested_commits">Header</a><br /><em>Name & Title, Company</em></div>
   </div>
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">14:55</div>
@@ -105,8 +108,8 @@ title: CoDe & DevOps Conference
   </div>
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">15:05</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#favorite_plugins">Header</a><br /><em>??, Title, Company</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#getting_groovy_with_jci">Header</a><br /><em>??, Title, Business, Company</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#favorite_plugins">Header</a><br /><em>Name & Title, Company</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#getting_groovy_with_jci">Header</a><br /><em>Name & Title,Company</em></div>
   </div>
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">15:50</div>
@@ -114,8 +117,8 @@ title: CoDe & DevOps Conference
   </div>
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">16:00</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#creating_jci_plugins">Header</a><a href="/program/#getting_groovy_with_jci"><br /></a><br /><em>??, Title, Company</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#controlling_oss_licences">Header <br />with Jenkins CI</a><br /><em>??, Title, Company</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#creating_jci_plugins">Header</a><a href="/program/#getting_groovy_with_jci"><br /></a><em>Name & Title, Company</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#controlling_oss_licences">Header <br /></a><em>Name & Title, Company</em></div>
   </div>
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time">&nbsp;</div>
