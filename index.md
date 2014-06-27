@@ -3,26 +3,24 @@ layout: front
 title: CoDe CPH Conference 2014 Front
 ---
 
-<div class="subheading"> 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
-</div>
+#Continuous Delivery & DevOps Conference 
+##in the heart of Copenhagen.
+__October 22nd, 2014 at the Marriott Hotel Copenhagen.__
 
-######IN ENIM RHONCUS UT, IMPRIDIE A, VENTIRASK VITAE JUSTO. NULLAM DICTUM FELIS EU PEDE SED MOLLLIS PRETIUM.  
+######Copenhagen now got it's own conference on Continuous Delivery & DevOps. The conference name <span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">CoDe</span> is referring Continuous Delivery and at the same time indicates that we're dealing with  - software development.
 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. 
+<a href="http://cdmi.praqma.net/">
+<img src="/images/maturity_model_web.png" class="stdright" style="width:500."></a>
+##This event is relevant to:
+IT executives & managers, Software architects & developers, Project Managers, Agile coaches, System administrators - and everyone who's got DevOps at heart.
 
-##Phasellus viverra nulla ut metus varius laoreet. 
+<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Wether you're already deep into CoDe</span> or your just scratching the surface and wants to understand the role of Continuous Delivery and DevOps in achieving the goals of agility, built-in-quality and time-to-market in software development - `CoDe` is for YOU.
 
-* Quisque rutrum. Aenean imperdiet. 
-* Etiam ultricies nisi vel augue. 
-* Curabitur ullamcorper ultricies nisi. Nam eget dui. 
-* Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
+Continuous Delivery and DevOps is all about implementing the agile principles for real: _"implement your definition of done"_. How did you do it? How did others do it? What are best practices? Meetup with peers for new experiences, knowledge sharing, networking and inspiring speaks that covers all of the multi faceted area of `CoDe`.
 
-<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Nam quam nunc, blandit vel, luctus pulvinar.</span> Hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. 
+How good is your Continuous Delivery Kung Fu? Do the <a href="http://cdmi.praqma.net" target="_blank">online self-assessment</a> and come to the conference to either teach or learn - or both.
 
-##Sed consequat, leo eget bibendum sodales.
-Augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. 
+__This is going to be a reoccurring yearly conference - join us from the beginning - don't miss a beat.__
 
-Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. 
 
-[SIGN UP](http://www.praqma.com) Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. 
+
