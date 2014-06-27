@@ -9,12 +9,14 @@ title: CoDe & DevOps Conference
   <a href="/events/jciusrcph13">
   <img src="/images/codeu_logo_hvid_conference 2014.png" class="test" style="float: right;">
   </a>
-  The times in the program are preliminary and may still change before the conference, but the content is decided, we hope you like it!
+  The agenda is in its early stage so now is the time for you to submit your paper.
+  
+  Call for paper is now open! 
 
 
 <p>
 
-Enjoy! See you at the conference!
+ See you at the conference!
 
 </p>
 <!--div class="container">
