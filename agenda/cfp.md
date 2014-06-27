@@ -1,5 +1,5 @@
 ---
-layout: agenda
+layout: default
 title: Call for Papers
 ---
 #Call for paper

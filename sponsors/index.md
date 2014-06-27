@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Sponsors
 ---
 #Meet our sponsors
