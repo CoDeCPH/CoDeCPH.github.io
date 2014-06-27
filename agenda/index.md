@@ -17,7 +17,7 @@ title: CoDe & DevOps Conference
 Enjoy! See you at the conference!
 
 </p>
-<div class="container">
+<!--div class="container">
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time">&nbsp;</div>
     <div class="agenda-column agenda-1col agenda-header-item">Kickoff</div>
@@ -144,4 +144,4 @@ Enjoy! See you at the conference!
     <div class="agenda-column agenda-column-time timestamp">17:00</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Networking &amp; Drinks</strong><br />...it ends when it ends, socialize!</div>
   </div>
-</div>
+</div-->
