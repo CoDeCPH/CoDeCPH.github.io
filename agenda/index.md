@@ -4,21 +4,16 @@ title: CoDe & DevOps Conference
 ---
 #Continuous Delivery & DevOps Copenhagen - 2014 
 
-#Agenda
-
-##Call for paper is now open! 
+#Call for paper is now open! 
 
   <a href="/events/jciusrcph13">
   <img src="/images/codeu_logo_hvid_conference 2014.png" class="test" style="float: right;">
-  </a><br/>
+  </a>
   The agenda is in its early stage so now is the time for you to submit your paper.
   
 
-<p>
-
  See you at the conference!
 
-</p>
 <!--div class="container">
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time">&nbsp;</div>
