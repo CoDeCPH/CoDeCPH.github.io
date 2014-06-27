@@ -4,8 +4,8 @@ title: CoDe CPH 2014 Program
 ---
 # CoDe CPH 2014 Program
 
-<h2 id="jci_state_of_union">Keynote: To be announced - Stay tuned</h2>
-
+##Stay tuned
+<!--
 _<a href="/speakers/#">Name</a>, Company_
 
 Presentation abstract
@@ -28,3 +28,4 @@ _<a href="/speakers/#">Name</a>, Company_
 
 Presentation abstract
 
+-->
