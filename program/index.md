@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: program
 title: CoDe CPH 2014 Program
 ---
 # CoDe CPH 2014 Program
 
-##Stay tuned
+##The program is on its way
+
+We're in the process of preparing the program, [call for papers](/agenda/cfp.html) is still open. So maybe you should consider to give a speak - and enter into the conference program yourself?
+
+__Stay tuned__ and keep yourself updated by following [@codecph on twitter](/social/tweets.html)
+
 <!--
 _<a href="/speakers/#">Name</a>, Company_
 

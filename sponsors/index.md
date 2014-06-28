@@ -1,21 +1,20 @@
 ---
-layout: default
+layout: sponsor
 title: Sponsors
 ---
-#Meet our sponsors
+#Organizers, hosts and sponsors
 
+<div style="width:200px;float:left;">
+  <div style="height:200px;position:relative;">
+    <a href="/sponsors/praqma.html"><img style="position: absolute; bottom: 0;width:200px" src="/images/praqma_logo_3D-_small.png" /></a>
+  </div>
+  <div style="height:40px;text-align:center;font-size:82%;">Conference organizer<br/>and host</div>
+</div>
 
-<tr><th><img src="/images/CA_logo.png" class="test" style="float: left;size:100%;"/></th><td style="font-size:7px;"></td></tr><br/>
+<div style="width:200px;float:left;">
+  <div style="height:200px;position:relative;">
+    <a href="/sponsors/ca.html"><img style="position: absolute; bottom: 0;width:200px" src="/images/CA_logo.png" /></a>
+  </div>
+  <div style="height:40px;text-align:center;font-size:82%;">Platinum sponsor<br/> and co-host</div>
+</div>
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-###Sponsor profiles<br/>
-
-<i>CA Technologies creates software that fuels transformation for companies and enables them to seize the opportunities of the application economy. From planning to DevOps to security to systems management, our solutions power innovation and drive competitive advantage for businesses everywhere. We help organizations to drive enterprise-wide productivity, offer differentiated user experiences and open new growth opportunities. And, we are able to deliver this value across multiple environments – mobile, private and public cloud, distributed and mainframe. Recognized by our customers as a critical partner in their IT transformation, CA is working with companies worldwide to change the way we live, transact and communicate.</i>
