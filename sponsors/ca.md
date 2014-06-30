@@ -5,7 +5,7 @@ title: Sponsors
 #CA technologies
 <div style="width:200px;float:left;padding:20px">
   <div style="height:200px;position:relative;">
-    <img style="position: absolute; bottom: 0;width:200px" src="/images/CA_logo.png" />
+    <img style="position: absolute; bottom: 0;width:200px" src="/images/sponsors/CA_logo.png" />
   </div>
   <div style="height:40px;text-align:center;font-size:82%;">Platinum sponsor<br/> and co-host</div>
 </div>
