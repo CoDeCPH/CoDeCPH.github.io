@@ -25,7 +25,7 @@ title: Sponsor packages
   </tr>
   <tr>
     <td>
-      Free passes
+      **Free passes**
 
     </td>
     <td>
@@ -40,44 +40,62 @@ title: Sponsor packages
   </tr>
   <tr>
     <td>
-      1
+      **Booth in the exhibition area** <br/>
+      The opportunity to meet attendees during breaks, do demos and hand out materials
     </td>
     <td>
-      2
+      Yes
     </td>
     <td>
-      3
+      Yes
     </td>
     <td>
-      4
-    </td>
-  </tr>
-  <tr>
-    <td>
-      1
-    </td>
-    <td>
-      2
-    </td>
-    <td>
-      3
-    </td>
-    <td>
-      4
+      
     </td>
   </tr>
   <tr>
     <td>
-      1
+      **Brand promotion** <br/>
+        Logo and company profile on website, program, invitations and roll-up in exhibition area<br/>
     </td>
     <td>
-      2
+      Yes
     </td>
     <td>
-      3
+      Yes
     </td>
     <td>
-      4
+      Yes - <br/>
+      but no roll-up in the exhibition area
+    </td>
+  </tr>
+  <tr>
+    <td>
+     **Attende list** <br/>
+     Access to company/title/name/address/phone number/email
+    </td>
+    <td>
+      Yes
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
+    </td>
+  </tr>
+<td>
+      **Speaker session** <br/>
+      in the afternoon
+    </td>
+    <td>
+      Yes
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
     </td>
   </tr>
 </table>
