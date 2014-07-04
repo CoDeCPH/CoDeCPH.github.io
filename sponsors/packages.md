@@ -11,15 +11,15 @@ title: Sponsor packages
       Pic
     </td>
     <td>
-      Gold
+      Gold <br/>
       € 5000
     </td>
     <td>
-      Silver
+      Silver <br/>
       € 2000
     </td>
     <td>
-      Happening
+      Happening <br/>
       € Depending on the gimmic
     </td>
   </tr>
