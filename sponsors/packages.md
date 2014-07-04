@@ -12,27 +12,30 @@ title: Sponsor packages
     </td>
     <td>
       Gold
+      € 5000
     </td>
     <td>
       Silver
+      € 2000
     </td>
     <td>
       Happening
+      € Depending on the gimmic
     </td>
   </tr>
   <tr>
     <td>
-      blaha
+      Free passes
 
+    </td>
+    <td>
+      5
     </td>
     <td>
       2
     </td>
     <td>
-      3
-    </td>
-    <td>
-      4
+      2
     </td>
   </tr>
   <tr>
