@@ -4,100 +4,30 @@ title: Sponsor packages
 ---
 #Sponsor packages
 
+######We offer three different types of sponsorships for the CoDe and DevOps conference.
 
-<table>
-  <tr>
-    <td>
-      Pic
-    </td>
-    <td>
-      Gold <br/>
-      € 5000
-    </td>
-    <td>
-      Silver <br/>
-      € 2000
-    </td>
-    <td>
-      Happening <br/>
-      € Depending on the gimmic
-    </td>
-  </tr>
-  <tr>
-    <td>
-      **Free passes**
+* __Gold__ (EUR 5,000.00)
+* __Silver__ (EUR 2,000.00
+* __Happening or gimmick__ (negotiable - tell us what you want!)
 
-    </td>
-    <td>
-      5
-    </td>
-    <td>
-      2
-    </td>
-    <td>
-      2
-    </td>
-  </tr>
-  <tr>
-    <td>
-      **Booth in the exhibition area** <br/>
-      The opportunity to meet attendees during breaks, do demos and hand out materials
-    </td>
-    <td>
-      Yes
-    </td>
-    <td>
-      Yes
-    </td>
-    <td>
-      
-    </td>
-  </tr>
-  <tr>
-    <td>
-      **Brand promotion** <br/>
-        Logo and company profile on website, program, invitations and roll-up in exhibition area<br/>
-    </td>
-    <td>
-      Yes
-    </td>
-    <td>
-      Yes
-    </td>
-    <td>
-      Yes - <br/>
-      but no roll-up in the exhibition area
-    </td>
-  </tr>
-  <tr>
-    <td>
-     **Attende list** <br/>
-     Access to company/title/name/address/phone number/email
-    </td>
-    <td>
-      Yes
-    </td>
-    <td>
-      
-    </td>
-    <td>
-      
-    </td>
-  </tr>
-<td>
-      **Speaker session** <br/>
-      in the afternoon
-    </td>
-    <td>
-      Yes
-    </td>
-    <td>
-      
-    </td>
-    <td>
-      
-    </td>
-  </tr>
-</table>
+---
 
+<img class="stdleft" style="width:170px;" src="/images/sponsoring.jpg"/> The conference will have an exhibition area where attendees can come and talk to the Gold and Silver sponsors. During the afternoon there will be a break in sessions where the attendees are encouraged to visit the sponsors.
+
+Meals and refreshments are also served in the exhibition area. There will be plenty of opportunity to meet the attendees. Silver and Gold sponsors will be given access to a table in the exhibition area where they can setup their materials, roll-ups, do demonstrations, hand out swags etc.
+
+## Gold sponsor benefits
+* 5 conference entry passes
+* Booth at the exhibition area, including space for you roll-ups and materials
+* Logo on web, printed program, conference roll-ups and the conference token
+* Access to the attendees list ( title / name / address / phone number / email)
+* Speaker session (45 mins - you must submit a paper and you must confirm to the [TED commandments](/program/))
+
+## Silver sponsor benefits
+* 2 conference entry passes
+* Booth at the exhibition area, including space for you roll-ups and materials
+* Logo on web, printed program, conference roll-ups and the conference token
+
+## Happening or gimmick
+* You can sponsor anything from meals, drinks, sweets, swags. Let us know what you have in mind, and we'll work something out.
 
