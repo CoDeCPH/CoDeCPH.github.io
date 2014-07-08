@@ -4,6 +4,7 @@ title: CoDe CPH Conference 2014 Front
 ---
 
 #Continuous Delivery & DevOps Conference 
+
 ##in the heart of Copenhagen.
 __October 22nd, 2014 at the Marriott Hotel Copenhagen.__
 
@@ -11,6 +12,7 @@ __October 22nd, 2014 at the Marriott Hotel Copenhagen.__
 
 <a href="http://cdmi.praqma.net/">
 <img src="/images/maturity_model_web.png" class="stdright" style="width:500."></a>
+
 ##This event is relevant to:
 IT executives & managers, software architects & developers, project managers, agile coaches, system administrators - and everyone who's got DevOps at heart.
 
