@@ -17,4 +17,5 @@ title: Sponsors
   </div>
   <div style="height:40px;text-align:center;font-size:82%;">Platinum sponsor<br/> and co-host</div>
 </div>
+<div style="clear:both;"></div>
 
