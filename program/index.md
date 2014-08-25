@@ -4,33 +4,23 @@ title: CoDe CPH 2014 Program
 ---
 # CoDe CPH 2014 Program
 
-##The program is on its way
+## DevOps, Cloud and Your SDLC
+{: #devops}
 
-We're in the process of preparing the program, [call for papers](/agenda/cfp.html) is still open. So maybe you should consider to give a speak - and enter into the conference program yourself?
+#### Keynote
 
-__Stay tuned__ and keep yourself updated by following [@codecph on twitter](/social/tweets.html)
+######[Andi Mann](/speakers#andimann.jpg), CA
 
-<!--
-_<a href="/speakers/#">Name</a>, Company_
+By enabling new approaches to service delivery, cloud and DevOps together are delivering even greater speed, agility, and efficiency. No wonder leading innovators are adopting DevOps and cloud together!
+This presentation will explore the synergies in these two approaches, with practical tips, techniques, research data, war stories, case studies, and recommendations.
 
-Presentation abstract
+Whether you are a startup or an enterprise; using private cloud, public cloud, or no cloud; an Agile noob or a DevOps pro; struggling with core banking systems, or building a new social/local/mobile app that will change the world (!); this session will give you actionable ideas on using cloud and DevOps together to revolutionize your software and service delivery lifecycle.
 
-<h2 id="jci_state_of_union">Keynote: To be announced - Stay tuned</h2>
+## How to find & grow your own DevOps experts…
+{: #howto}
 
-_<a href="/speakers/#">Name</a>, Company_
+######[Paul Speers](/speakers#pspeers.png), Speerhead
 
-Presentation abstract
+The contractor market is booming for talented DevOps architects and engineers, salaries are rising. Finding and luring DevOps gurus to work on exciting truly transformation projects and creating and sustaining culture is highly challenging. Paul argues this is not a sustainable market dynamic with no real & proper training for new talent or existing IT engineers into the DevOps market.
 
-<h2 id="cd_whats_the_point">Title</h2>
-
-_<a href="/speakers/#">Name</a>, Company_
-
-Presentation abstract
-
-<h2 id="CI_early_n_often">Title</h2>
-
-_<a href="/speakers/#">Name</a>, Company_
-
-Presentation abstract
-
--->
+In this session Paul discusses how can you grow the new breed of DevOps graduates, coders. How to do this, what methods to use, how to select talent from your current team and why you need to create a new IT world and sustain a DevOps culture. He maintains companies need help in on boarding new talent putting them through ‘on the job’ training covering not just coding but soft skills, meeting skills, IT automation, Open Source tooling and business process engineering.
