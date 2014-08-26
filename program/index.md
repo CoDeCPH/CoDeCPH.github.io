@@ -16,6 +16,15 @@ This presentation will explore the synergies in these two approaches, with pract
 
 Whether you are a startup or an enterprise; using private cloud, public cloud, or no cloud; an Agile noob or a DevOps pro; struggling with core banking systems, or building a new social/local/mobile app that will change the world (!); this session will give you actionable ideas on using cloud and DevOps together to revolutionize your software and service delivery lifecycle.
 
+## Using Continuous Delivery to Build Products Customers Actually Use
+{: #usingcd}
+
+#### Keynote
+
+######[Jan Bosch](/speakers#jbosch.jpg), Chalmers University of Technology
+
+Research shows that for a typical system, more than half of all the features are never used. This is a colossal waste of R&D effort and is caused by companies asking customers and users what they want. Users don't know what they want and it's the engineer's job to find out. The presentation shows how Continuous Delivery can address this challenge by providing a systematic approach to exploring a broad set of hypotheses about functionality that might add value for users at different stages of development. The presentation introduces the notion of Innovation Experiment Systems as a systematic method for optimizing the user experience of existing features, developing new features as well as developing new products. Continuous Delivery is discussed as it provides the core enabling technology for successfully implementing this approach. The presentation is based on data from eight industrial cases and stresses the importance of speed and rapid iterations in development. The presentation uses numerous examples from industry are used to illustrate the concepts.
+
 ## How to find & grow your own DevOps experts…
 {: #howto}
 

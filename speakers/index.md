@@ -13,6 +13,15 @@ title: CoDe CPH 2014 - speakers
 
 ![Andi Mann](/images/speakers/andimann.jpg){: .portrait}Andi Mann is a Vice President in the Office of the Chief Technology Officer at CA Technologies. He is an accomplished digital business executive with extensive global expertise as a strategist, technologist, innovator, marketer, and communicator. For over 25 years across five continents, Andi has built success with corporations, vendors, governments, and as a leading research analyst and business consultant.<br clear="both">
 
+## Jan Bosch
+{: jbosch}
+
+###### Professor of Software Engineering, Chalmers University of Technology
+
+#### Speak:[Keynote, Using Continuous Delivery to Build Products Customers Actually Use](/program#usingcd)
+
+![Jan Bosch](/images/speakers/jbosch.jpg){: .portrait} Jan Bosch is professor of software engineering and director of the software research center at Chalmers University Technology in Gothenburg, Sweden. Earlier, he worked as Vice President Engineering Process at Intuit Inc where he also lead Intuit's Open Innovation efforts and headed the central mobile technologies team. Before Intuit, he was head of the Software and Application Technologies Laboratory at Nokia Research Center, Finland. Before joining Nokia, he headed the software engineering research group at the University of Groningen, The Netherlands, where he holds a professorship in software engineering. He received a MSc degree from the University of Twente, The Netherlands, and a PhD degree from Lund University, Sweden. His research activities include open innovation, innovation experiment systems, compositional software engineering, software ecosystems, software architecture, software product families and software variability management. He is the author of a book "Design and Use of Software Architectures: Adopting and Evolving a Product Line Approach" published by Pearson Education (Addison-Wesley & ACM Press), (co-)editor of several books and volumes in, among others, the Springer LNCS series and (co-)author of a significant number of research articles. He is editor for Science of Computer Programming, has been guest editor for journal issues, chaired several conferences as general and program chair, served on many program committees and organized numerous workshops.
+
 ## Paul Speers
 {: #speers}
 
