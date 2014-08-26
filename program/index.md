@@ -33,3 +33,10 @@ Research shows that for a typical system, more than half of all the features are
 The contractor market is booming for talented DevOps architects and engineers, salaries are rising. Finding and luring DevOps gurus to work on exciting truly transformation projects and creating and sustaining culture is highly challenging. Paul argues this is not a sustainable market dynamic with no real & proper training for new talent or existing IT engineers into the DevOps market.
 
 In this session Paul discusses how can you grow the new breed of DevOps graduates, coders. How to do this, what methods to use, how to select talent from your current team and why you need to create a new IT world and sustain a DevOps culture. He maintains companies need help in on boarding new talent putting them through ‘on the job’ training covering not just coding but soft skills, meeting skills, IT automation, Open Source tooling and business process engineering.
+
+## Continuous Delivery Maturity
+{: #cdmaturity}
+
+######[Lars Kruse](/speakers#lars_kruse.jpg), Praqma
+
+For most software development teams it is a major challenge keeping up with the rapidly changing requirements, while delivering quality software within budget and deadlines. Implementing Agile or Lean methods is a step in the right direction, but many teams find out that this doesn't really solve the problems. This presentation give a comprehensive introduction to the multifaceted landscape of Continuous Delivery, argue why it is an important part of the solution, and present some successful real-life implementations of a full Continuous Delivery automation. Based on Praqma's CD maturity model the presentation will demonstrate how the ability to continuously deliver working software requires a certain level of maturity in software development processes.

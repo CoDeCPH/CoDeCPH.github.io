@@ -36,6 +36,6 @@ title: CoDe CPH 2014 - speakers
 
 ###### Continuous Delivery Coach, Praqma
 
-#### Speak: [TBA](/program#)
+#### Speak: [Continuous Delivery Maturity](/program#cdmaturity)
 
 ![Lars Kruse](/images/speakers/lars_kruse.jpg){: .portrait} Lars Kruse is partner and co-founder of Praqma, a consultancy bureau specialized in services within optimization of software development processes and maintenance and development of Open Source tools for this purpose. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.<br clear="both">
