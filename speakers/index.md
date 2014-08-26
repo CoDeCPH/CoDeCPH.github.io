@@ -9,7 +9,7 @@ title: CoDe CPH 2014 - speakers
 
 ###### Vice President, Office of the CTO
 
-#### Speak:[Keynote, DevOps, Cloud and Your SDLC](/Program#devops)
+#### Speak:[Keynote, DevOps, Cloud and Your SDLC](/program#devops)
 
 ![Andi Mann](/images/speakers/andimann.jpg){: .portrait}Andi Mann is a Vice President in the Office of the Chief Technology Officer at CA Technologies. He is an accomplished digital business executive with extensive global expertise as a strategist, technologist, innovator, marketer, and communicator. For over 25 years across five continents, Andi has built success with corporations, vendors, governments, and as a leading research analyst and business consultant.<br clear="both">
 
@@ -18,7 +18,7 @@ title: CoDe CPH 2014 - speakers
 
 ###### CEO, Speerhead
 
-#### Speak: [How to find & grow your own DevOps experts…](/Program#howto)
+#### Speak: [How to find & grow your own DevOps experts…](/program#howto)
 
 ![Paul Speers](/images/speakers/pspeers.jpg){: .portrait}Paul Speers started life as a Dev working for HP in R&D, then a key founder in a number of startups and latterly as an Op founding Fox IT the Global Service Managment Consulting and Training practice. He is co-founder of  Speerhead International - The Global DevOps recruitment specialist, which he started two years ago with the mission to put a recruitment and training practice into each global DevOps tech hub.<br clear="both">
 
