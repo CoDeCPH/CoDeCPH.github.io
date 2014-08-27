@@ -37,7 +37,13 @@ In this session Paul discusses how can you grow the new breed of DevOps graduate
 ## Continuous Delivery Maturity
 {: #cdmaturity}
 
-
 ######[Lars Kruse](/speakers#lkruse), Praqma
 
 For most software development teams it is a major challenge keeping up with the rapidly changing requirements, while delivering quality software within budget and deadlines. Implementing Agile or Lean methods is a step in the right direction, but many teams find out that this doesn't really solve the problems. This presentation give a comprehensive introduction to the multifaceted landscape of Continuous Delivery, argue why it is an important part of the solution, and present some successful real-life implementations of a full Continuous Delivery automation. Based on Praqma's CD maturity model the presentation will demonstrate how the ability to continuously deliver working software requires a certain level of maturity in software development processes.
+
+## The implementation of Continuous Delivery at Ziggo (UPC-Liberty Global)
+{: #cdziggo}
+
+######[Michiel Sens](/speakers#msens), Xebia
+
+Ziggo is one of the largest cable providers in the Netherlands and provides 3 million+ households with digital Television, Broadband Internet and/or Telephony. A new Ziggo.nl website was launched in April 2014 and is created by multiple vendors, comprising many different technologies like Java, PHP, MySql and Hippo CMS. As the site was build from the ground up, Ziggo took the opportunity to apply Continuous Delivery techniques to speed up the delivery process. This presentation explains the differences between a traditional and an optimised Software Delivery process, explains the key ingredients to making this project a success and provides an overview of components that were used to make the official Ziggo.nl launch a very dull but also very successful event.

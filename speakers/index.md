@@ -39,3 +39,12 @@ title: CoDe CPH 2014 - speakers
 #### Speak: [Continuous Delivery Maturity](/program#cdmaturity)
 
 ![Lars Kruse](/images/speakers/lars_kruse.jpg){: .portrait} Lars Kruse is partner and co-founder of Praqma, a consultancy bureau specialized in services within optimization of software development processes and maintenance and development of Open Source tools for this purpose. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.<br clear="both">
+
+## Michiel Sens
+{: #sens}
+
+###### Solution Architect, Xebia
+
+#### Speak: [The implementation of Continuous Delivery at Ziggo (UPC-Liberty Global](/program#cdziggo)
+
+![Michael Sens](/images/speakers/msens.jpg){: .portrait} Michiel Sens is Principal Consultant and Solution Architect at Xebia in The Netherlands. Michiel specializes in Continuous Delivery and full lifecycle software development programs and as such focuses on coaching Agile Teams, setting up central build environments, automating tests, automating deployment over multiple environments and implementing fully automated PaaS platforms. He advocates the use of Continuous Delivery at seminars and meetups, while remaining in touch with its details by performing actual implementations as well.
