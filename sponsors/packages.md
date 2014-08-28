@@ -21,7 +21,7 @@ Meals and refreshments are also served in the exhibition area. There will be ple
 * Booth at the exhibition area, including space for you roll-ups and materials
 * Logo on web, printed program, conference roll-ups and the conference token
 * Access to the attendees list ( title / name / address / phone number / email)
-* Speaker session (45 mins - you must submit a paper and you must confirm to the [TED commandments](/program/))
+* Speaker session (30 mins - you must submit a paper and you must confirm to the [TED commandments](/program/))
 
 ## Silver sponsor benefits
 * 2 conference entry passes
@@ -30,4 +30,3 @@ Meals and refreshments are also served in the exhibition area. There will be ple
 
 ## Happening or gimmick
 * You can sponsor anything from meals, drinks, sweets, swags. Let us know what you have in mind, and we'll work something out.
-
