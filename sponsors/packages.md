@@ -7,7 +7,7 @@ title: Sponsor packages
 ######We offer three different types of sponsorships for the CoDe and DevOps conference.
 
 * __Gold__ (EUR 5,000.00)
-* __Silver__ (EUR 2,000.00
+* __Silver__ (EUR 2,000.00)
 * __Happening or gimmick__ (negotiable - tell us what you want!)
 
 ---
