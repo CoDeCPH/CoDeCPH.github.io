@@ -8,6 +8,7 @@ title: Sponsor packages
 
 * __Gold__ (EUR 5,000.00)
 * __Silver__ (EUR 2,000.00)
+* __Community__ (EUR 2,000.00)
 * __Happening or gimmick__ (negotiable - tell us what you want!)
 
 ---
@@ -27,6 +28,13 @@ Meals and refreshments are also served in the exhibition area. There will be ple
 * 2 conference entry passes
 * Booth at the exhibition area, including space for you roll-ups and materials
 * Logo on web, printed program, conference roll-ups and the conference token
+
+## Community sponsorship
+With more than 300 members CoDe has become a community for enthusiasts of Continuous Delivery. Thus, community sponsorships are obviously available alongside the commercial sponsorships. Basically, a community sponsorship is an exclusive group ticket valid for 5 people. The price of the sponsorship is DKK 15.000,- which is twice the ordinary ticket price. In return we have thrown some goodies in the bag, so besides the good community karma you also get valuable exposure of your business within the CoDe community. Simply purchase your sponsorship as a group ticket online, where you would also [purchase regular tickets](http://codecph.eventbrite.com){: target="_blank"}. In case you have already purchased your tickets, please contact us first, and we will of course deduct the expenses you've already had.<br/>
+
+####Benefits:
+* 5 conference entry passes
+* Logo on web, printed program, conference roll-ups, and conference token
 
 ## Happening or gimmick
 * You can sponsor anything from meals, drinks, sweets, swags. Let us know what you have in mind, and we'll work something out.
