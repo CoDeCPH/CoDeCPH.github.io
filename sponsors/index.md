@@ -1,5 +1,5 @@
 ---
-layout: sponsor
+layout: sponsor 
 title: Sponsors
 ---
 #Organizers, hosts and sponsors
