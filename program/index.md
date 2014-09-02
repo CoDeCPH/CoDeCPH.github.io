@@ -51,7 +51,11 @@ Ziggo is one of the largest cable providers in the Netherlands and provides 3 mi
 ## DevOps At Scale
 {: #scale}
 
+<<<<<<< HEAD
+######[Benjamin Wootton](/speakers#bwootton), Contino
+=======
 ######[Benjamin Wootton](speakers#bwootton), Contino
+>>>>>>> b7425a409e49ad9249291531dca77234189458fc
 
 DevOps started life in ‘born on the web’ digital companies such as Facebook, Google, and Etsy.  As the movement has grown in size and prominence however, people are increasingly asking whether DevOps like practices can scale into bigger companies and how to get started on their own DevOps transformation.  
 
