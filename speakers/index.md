@@ -47,7 +47,7 @@ title: CoDe CPH 2014 - speakers
 
 #### Speak: [The implementation of Continuous Delivery at Ziggo (UPC-Liberty Global](/program#cdziggo)
 
-![Michael Sens](/images/speakers/msens.jpg){: .portrait} Michiel Sens has worked in the IT Industry for over 18 years, is co-writer of the book 'Continuous Delivery for Managers' and works as a Principal Consultant/Solution Architect at Xebia in The Netherlands. Michiel specializes in Continuous Delivery and full lifecycle software development programs and as such focuses on coaching Agile Teams, setting up central build environments, automating tests, automating deployment over multiple environments and implementing fully automated PaaS platforms. He advocates the use of Continuous Delivery at seminars and meetups, while remaining in touch with its details by performing actual implementations as well.
+![Michael Sens](/images/speakers/msens.jpg){: .portrait} Michiel Sens has worked in the IT Industry for over 18 years, is co-writer of the book 'Continuous Delivery for Managers' and works as a Principal Consultant/Solution Architect at Xebia in The Netherlands. Michiel specializes in Continuous Delivery and full lifecycle software development programs and as such focuses on coaching Agile Teams, setting up central build environments, automating tests, automating deployment over multiple environments and implementing fully automated PaaS platforms. He advocates the use of Continuous Delivery at seminars and meetups, while remaining in touch with its details by performing actual implementations as well.<br clear="both">
 
 ## Benjamin Wootton
 {: #wootton}
@@ -56,5 +56,22 @@ title: CoDe CPH 2014 - speakers
 
 #### Speak: [DevOps At Scale](/program#scale)
 
-![Benjamin Wootton](/images/speakers/bwootton.jpg){: .portrait} Benjamin is the Co-Founder of Contino, a London based professional services firm that specializes in helping enterprise organisations adopt DevOps and Continuous Deliver tools, practices and approaches.
- 
+![Benjamin Wootton](/images/speakers/bwootton.jpg){: .portrait} Benjamin is the Co-Founder of Contino, a London based professional services firm that specializes in helping enterprise organisations adopt DevOps and Continuous Deliver tools, practices and approaches.<br clear="both">
+
+## Jonas Bang Christensen
+{: #bang}
+
+###### SW Release Manager, Schneider Electric
+
+#### Speak: TBA
+
+![Jonas Bang Christensen](/images/speakers/jbang.jpg){: .portrait} Jonas bang Christensen has 10+ years of experience as project manager within software integration, releasing and deployment, but has also setup his share of Jenkins jobs and pipelines. The last few years he has been working explicitly on implementing Continuous Integration & Delivery in different organizations.<br clear="both">
+
+## Rasmus Voss
+{: #voss}
+
+###### Continuous Integration Consultant, VossCon
+
+#### Speak: TBA
+
+![Rasmus Voss](/images/speakers/rvoss.jpg){: .portrait} Rasmus Voss is specialized in Continuous Integration, software releasing, and process automation. His vast knowledge on these areas has been built by a 10-year career in Nokia. Today, Ramus has his own company VossCon, where he consults with companies on how to make the most of their developers and testers by optimizing and automating.<br clear="both">
