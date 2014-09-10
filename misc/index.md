@@ -36,11 +36,8 @@ There are a 3 parking lots around Hotel Marriott Copenhagen:
 
 **Accommodation**<br/>
 Book a hotel room at Hotel Mariott Copenhagen.
-Hotel Marriott Copenhagen **price rate is 1,999.00 DKK per night** for a single room, breakfast and VAT included.
-
-<a href="http://www.copenhagenmarriott.com/">
-Book a room at the Hotel Marriott Copenhagen
-</a><br/>
+Hotel Marriott Copenhagen **price rate is 1,999.00 DKK per night** for a single room, breakfast and VAT included.<br/>
+Please let us know if you are planning to stay at the Mariott Hotel Copenhagen and we will be happy to assist you with any reservations. For assistance please [send us a mail](mailto:ah@praqma.net)
 
 ###Information to sponsors<br/>
 Delivery of stand material can be sent to the event venue. All items must have the following information clearly indicated: Conference name: “Continuous Delivery & DevOps Conference”, name of the exhibiting company, number of pieces, and name of the person in charge of the stand.<br/>
