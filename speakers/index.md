@@ -63,7 +63,7 @@ title: CoDe CPH 2014 - speakers
 
 ###### SW Release Manager, Schneider Electric
 
-#### Speak: TBA
+#### Speak: [Implementing Continuous Delivery in practice for embedded devices](/pragram#embedded)
 
 ![Jonas Bang Christensen](/images/speakers/jbang.jpg){: .portrait} Jonas bang Christensen has 10+ years of experience as project manager within software integration, releasing and deployment, but has also setup his share of Jenkins jobs and pipelines. The last few years he has been working explicitly on implementing Continuous Integration & Delivery in different organizations.<br clear="both">
 
@@ -72,6 +72,6 @@ title: CoDe CPH 2014 - speakers
 
 ###### Continuous Integration Consultant, VossCon
 
-#### Speak: TBA
+#### Speak: [Implementing Continuous Delivery in practice for embedded devices](/pragram#embedded)
 
 ![Rasmus Voss](/images/speakers/rvoss.jpg){: .portrait} Rasmus Voss is specialized in Continuous Integration, software releasing, and process automation. His vast knowledge on these areas has been built by a 10-year career in Nokia. Today, Rasmus has his own company VossCon, where he consults with companies on how to make the most of their developers and testers by optimizing and automating.<br clear="both">
