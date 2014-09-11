@@ -56,3 +56,13 @@ Ziggo is one of the largest cable providers in the Netherlands and provides 3 mi
 DevOps started life in ‘born on the web’ digital companies such as Facebook, Google, and Etsy.  As the movement has grown in size and prominence however, people are increasingly asking whether DevOps like practices can scale into bigger companies and how to get started on their own DevOps transformation.  
 
 In this session, we will cover why DevOps is especially relevant in an Enterprise setting, covering some of the challenges how to overcome them.  We’ll bring this to life with examples from some of our clients, many of whom are already leveraging DevOps practices to get to market earlier and deliver better software, more efficiently.
+
+## Implementing Continuous Delivery in practice for embedded devices
+{: #embedded}
+
+######[Jonas Bang Christensen](/speakers#bang), Schneider Electric & [Rasmus Voss](/speakers#voss), VossCon
+
+A case story based on the experiences made from implementing Continuous Integration & Delivery at Nokia, and latest from an ongoing implementation at Schneider Electric. The presentation will take you through some of the challenges of how to convert the abundance of theories, concepts, and tools of Continuous Integration & Delivery, and in practice how to implement these into legacy embedded device projects using C, .Net, Java, and silverlight.
+
+The speakers will share their views and advice on how to tackle change management, how to convince management of the importance of Continuous Integration & Delivery, which tools to use, where to begin, and what exactly is the difference between having and using version control.
+The presentation will be concrete, but subjective, so consider yourself warned.
