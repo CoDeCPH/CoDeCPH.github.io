@@ -84,3 +84,12 @@ title: CoDe CPH 2014 - speakers
 #### Speak [Continuous Delivery X-rayed](/program#xrayed)
 
 ![Lars Bendix](/images/speakers/bendix.jpg){: .portrait} Lars Bendix is professor of software engineering at Lund University, Sweden and administrator of the Scandinavian Network of Excellence in Software Configuration Management. He has spent most of his academic career doing research in Configuration Management together with various industrial partners and has taught one of the few academic courses in Configuration Management to hundreds of students. For more than a decade he has also been heavily involved with his department's agile activities.
+
+## Allan Tange
+{: #tange}
+
+###### CEO, Testhuset
+
+#### Speak [Robust functional- and integration testing earlier in the SDLC is mandatory when introducing Continues Delivery](/program#sdlc)
+
+![Allan Tange](/images/speakers/tange.jpg){: .portrait} Allan Tange is the founder of Testhuset and has over the last 20 years helped many customers improving their quality of software applications. His focus is and has always been around getting testing and quality assurance as a natural part of the Software Delivery Life Cycle. Areas like mobile testing, testing of SAP solutions, browser compatibility tests and later Service Virtualization are all parts of Testhuset’s domain knowledge.
