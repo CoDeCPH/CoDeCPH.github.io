@@ -66,3 +66,10 @@ A case story based on the experiences made from implementing Continuous Integrat
 
 The speakers will share their views and advice on how to tackle change management, how to convince management of the importance of Continuous Integration & Delivery, which tools to use, where to begin, and what exactly is the difference between having and using version control.
 The presentation will be concrete, but subjective, so consider yourself warned.
+
+## Continuous Delivery X-rayed
+{: #xrayed}
+
+######[Lars Bendix](/speakers#bendix), Lund University
+
+How does Continuous Delivery (and DevOps) look like from "the Ivory Tower" (the academic point of view)? A lightning analysis of why you might want to use Continuous Delivery and what you should probably look out for if you want to succeed. Spiffed up with some practical experience (aka Lessons Learned) from student projects - that might or might not relate to "the real world".

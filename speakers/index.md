@@ -75,3 +75,12 @@ title: CoDe CPH 2014 - speakers
 #### Speak: [Implementing Continuous Delivery in practice for embedded devices](/program#embedded)
 
 ![Rasmus Voss](/images/speakers/rvoss.jpg){: .portrait} Rasmus Voss is specialized in Continuous Integration, software releasing, and process automation. His vast knowledge on these areas has been built by a 10-year career in Nokia. Today, Rasmus has his own company VossCon, where he consults with companies on how to make the most of their developers and testers by optimizing and automating.<br clear="both">
+
+## Lars Bendix
+{: #bendix}
+
+###### Professor of software engineering, Lund University
+
+#### Speak [Continuous Delivery X-rayed](/program#xrayed)
+
+![Lars Bendix](/images/speakers/bendix.jpg){: .portrait} Lars Bendix is professor of software engineering at Lund University, Sweden and administrator of the Scandinavian Network of Excellence in Software Configuration Management. He has spent most of his academic career doing research in Configuration Management together with various industrial partners and has taught one of the few academic courses in Configuration Management to hundreds of students. For more than a decade he has also been heavily involved with his department's agile activities.
