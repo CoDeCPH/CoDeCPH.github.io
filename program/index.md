@@ -46,7 +46,9 @@ For most software development teams it is a major challenge keeping up with the 
 
 ######[Michiel Sens](/speakers#msens), Xebia
 
-Ziggo is one of the largest cable providers in the Netherlands and provides 3 million+ households with digital Television, Broadband Internet and/or Telephony. A new Ziggo.nl website was launched in April 2014 and is created by multiple vendors, comprising many different technologies like Java, PHP, MySql and Hippo CMS. As the site was build from the ground up, Ziggo took the opportunity to apply Continuous Delivery techniques to speed up the delivery process. This presentation explains the differences between a traditional and an optimised Software Delivery process, explains the key ingredients to making this project a success and provides an overview of components that were used to make the official Ziggo.nl launch a very dull but also very successful event.
+The new Ziggo.nl website was launched in April 2014 and was developed by multiple vendors, comprising many different technologies like Java, PHP, Hippo CMS and MySql. As the site was build from the ground up, Ziggo automated the complete software delivery process and managed to deliver faster, cheaper and better than ever before.
+
+This presentation explains the key ingredients to making this project a real success, the project structure that was applied, an overview of the tooling that was implemented, provides examples on how these tools were implemented and explains the main differences between a traditional software delivery process and the optimized software delivery process that can be used for Continuous Delivery.
 
 ## DevOps At Scale
 {: #scale}
