@@ -32,7 +32,7 @@ When paving the way for Continuous Delivery, I often like to refer to this as wo
 
 After automation of the Software Delivery Process, the customer's Software Development Process behaved like the optimized process below, providing the team the opportunity to push out a constant & fluent flow of new features to the end user. Within your conversation, you might want to use this diagram to explain advantages to your organization.
 
-![An optimized software delivery process](/images/speakers/blog3.jpg)
+![](/images/speakers/blog3.jpg)
 
 As we automated the Software Delivery Pipeline for the customer we positioned this customer to go live at a press of a button. And on the go-live date, it was just that: a press of the button and 5 minutes later the site was completely live, making this the most boring go-live event I've ever experienced. The project itself was real good fun though! :)
 
