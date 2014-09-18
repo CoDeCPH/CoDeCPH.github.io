@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Revolutionize Your SDLC
-<<<<<<< HEAD
 tags: [DevOps]
-=======
-tags: [Gijeli, Wiki, MarkDown, Ruby]
->>>>>>> 7b5bba4405bd8785df95feb17dd00cd262649018
 authors: [Andi Mann]
 ---
 
