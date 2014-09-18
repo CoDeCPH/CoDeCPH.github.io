@@ -1,14 +1,8 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: GiJeLi setup
-tags: [Gijeli, Wiki, MarkDown, Ruby]
-authors: [Lars kruse]
-=======
 title: Removing waste from pipeline
 tags: [Continuous Delivery]
 authors: [Michiel Sens]
->>>>>>> 3f731253330add6dd7301be6fa24a7c27816795a
 ---
 
 ## Continuous Delivery is about removing waste from the Software Delivery Pipeline
