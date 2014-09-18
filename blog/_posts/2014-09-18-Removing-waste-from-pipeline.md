@@ -16,7 +16,7 @@ authors: [Michiel Sens]
 #### By Michiel Sens, Solution Architect, Xebia
 {: sens}
 
-#### Speak:[The implementation of Continuous Delivery at Ziggo (UPC-Liberty Global](/program#cdziggo)
+#### Speak:[The implementation of Continuous Delivery at Ziggo (UPC-Liberty Global)](/program#cdziggo)
 
 ![Michael Sens](/images/speakers/msens.jpg){: .portrait} On October the 22nd I will be speaking at the Continuous Delivery and DevOps Conference in Copenhagen where I will share experiences on a very successful implementation of a new website serving about 20.000.000 page views a month.
 
