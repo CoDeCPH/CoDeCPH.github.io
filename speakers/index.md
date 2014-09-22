@@ -90,6 +90,6 @@ title: CoDe CPH 2014 - speakers
 
 ###### CEO, Testhuset
 
-#### Speak [Robust functional- and integration testing earlier in the SDLC is mandatory when introducing Continues Delivery](/program#sdlc)
+#### Speak [Robust functional- and integration testing earlier in the SDLC is mandatory when introducing Continuous Delivery](/program#sdlc)
 
 ![Allan Tange](/images/speakers/tange.jpg){: .portrait} Allan Tange is the founder of Testhuset and has over the last 20 years helped many customers improving their quality of software applications. His focus is and has always been around getting testing and quality assurance as a natural part of the Software Delivery Life Cycle. Areas like mobile testing, testing of SAP solutions, browser compatibility tests and later Service Virtualization are all parts of Testhuset’s domain knowledge.

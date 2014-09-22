@@ -81,6 +81,6 @@ How does Continuous Delivery (and DevOps) look like from "the Ivory Tower" (the 
 
 ######[Allan Tange](/speakers#tange), Testhuset
 
-As the adoption of agile development and Continues Delivery increases, outcome like volume and frequents of releases put pressure on test and quality organizations. In order to address that, a more robust functional- and integration testing earlier in the SDLC is mandatory. However to accommodate that, production-like test environments are often needed and typically comes with a high cost. Occasional it is even impossible due to third party limitations.
+As the adoption of agile development and Continuous Delivery increases, outcome like volume and frequents of releases put pressure on test and quality organizations. In order to address that, a more robust functional- and integration testing earlier in the SDLC is mandatory. However to accommodate that, production-like test environments are often needed and typically comes with a high cost. Occasional it is even impossible due to third party limitations.
 
-This session will explain how the concept of Service Virtualization and automated testing is an enabler for improving the  quality of Software applications in a Continues Delivery life cycle.
+This session will explain how the concept of Service Virtualization and automated testing is an enabler for improving the  quality of Software applications in a Continuous Delivery life cycle.
