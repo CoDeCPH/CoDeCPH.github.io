@@ -1,5 +1,5 @@
 ---
-layout: sponsor 
+layout: sponsor
 title: Sponsors
 ---
 #Organizers, hosts and sponsors
@@ -30,6 +30,13 @@ title: Sponsors
 <div style="width:200px;float:left;">
   <div style="height:200px;position:relative;">
     <a href="/sponsors/atlassian.html"><img style="position: absolute; bottom: 0;width:200px" src="/images/sponsors/atlassian.png" /></a>
+</div>
+<div style="height:40px;text-align:center;font-size:82%;">Silver sponsor<br/></div>
+</div>
+
+<div style="width:200px;float:left;">
+  <div style="height:200px;position:relative;">
+    <a href="/sponsors/qacube.html"><img style="position: absolute; bottom: 0;width:200px" src="/images/sponsors/qacube.png" /></a>
   </div>
   <div style="height:40px;text-align:center;font-size:82%;">Silver sponsor<br/></div>
 </div>
