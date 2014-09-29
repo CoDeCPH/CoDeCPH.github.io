@@ -93,3 +93,21 @@ title: CoDe CPH 2014 - speakers
 #### Speak [Robust functional- and integration testing earlier in the SDLC is mandatory when introducing Continuous Delivery](/program#sdlc)
 
 ![Allan Tange](/images/speakers/tange.jpg){: .portrait} Allan Tange is the founder of Testhuset and has over the last 20 years helped many customers improving their quality of software applications. His focus is and has always been around getting testing and quality assurance as a natural part of the Software Delivery Life Cycle. Areas like mobile testing, testing of SAP solutions, browser compatibility tests and later Service Virtualization are all parts of Testhuset’s domain knowledge.
+
+## Nicola Paolucci
+{: #paolucci}
+
+###### Developer Advocate, Atlassian
+
+#### Speak [A Business Case for Git](/program#git)
+
+![Nicola Paolucci](/images/speakers/npaolucci.jpg){: .portrait} Nicola is a Developer Advocate at Atlassian. He writes and talks about git, development workflows, collaboration around code and is an all-round hacker. Prior to Atlassian he lead software teams, built crowd sourcing applications for geo-spatial data, worked on huge e-commerce deployments. Little known facts about Nicola: he gesticulates a lot while speaking (being Italian), lives in Amsterdam and rides a Ducati.
+
+## Morten Elvang
+{: #elvang}
+
+###### Principal Consultant, DELTA
+
+#### Speak [Game changing beliefs](/program#gamechanging)
+
+![Morten Elvang](/images/speakers/melvang.jpg){: .portrait} Morten Elvang is Principal Consultant with DELTA and Partner in WWW.LKU.DK. He received his MSc and Phd in Computer Science from the Technical University of Denmark. He has helped product and service development teams of all sizes to gain better results with less hassle.

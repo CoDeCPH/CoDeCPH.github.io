@@ -84,3 +84,17 @@ How does Continuous Delivery (and DevOps) look like from "the Ivory Tower" (the 
 As the adoption of agile development and Continuous Delivery increases, outcome like volume and frequents of releases put pressure on test and quality organizations. In order to address that, a more robust functional- and integration testing earlier in the SDLC is mandatory. However to accommodate that, production-like test environments are often needed and typically comes with a high cost. Occasional it is even impossible due to third party limitations.
 
 This session will explain how the concept of Service Virtualization and automated testing is an enabler for improving the  quality of Software applications in a Continuous Delivery life cycle.
+
+## A Business Case for Git
+{: #git}
+
+######[Nicola Paolucci](/speakers#paolucci), Atlassian
+
+So you want to go Git, but other stakeholders in your organisation aren't quite convinced it's worth the effort? This talk will explain why migrating to Git is a win for the whole business – not just developers. We'll give you the ammunition you need to convince your team that the switch to Git is a no-brainer.
+
+## Game changing beliefs
+{: #gamechanging}
+
+######[Morten Elvang](/speakers#elvang), DELTA
+
+How can you create an organization where it's possible to have success with CoDe and devops? Imagine you can chose to believe in something and that choosing the right things can fundamentally change your luck in business? Is this at all a useful way to go about creating an effective and supportive organization? And, if so, what should you chose to believe in?
