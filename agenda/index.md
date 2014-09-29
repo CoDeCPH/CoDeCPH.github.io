@@ -97,7 +97,7 @@ title: CoDe & DevOps Conference
 
   <a href="/program#git">A business case for Git</a><br/><em>Nicola Paolucci, Atlassian</em></div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
-  <a href="/program#sdlc">"DevOps At Scale"</a><br/><em>Benjamin Wootton, Contino</em></div>
+  <a href="/program#scale">"DevOps At Scale"</a><br/><em>Benjamin Wootton, Contino</em></div>
 </div>
 
 <div class="agenda-row">
