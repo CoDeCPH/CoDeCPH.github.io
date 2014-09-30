@@ -173,12 +173,8 @@ width:750px;
 width:830px;
 }
 
-.agenda-item a:visited,#bottom .botblck a {
-color:black;
-}
-
 
 .agenda-portrait {
-  width:60px; 
-  padding-right: 8px; 
+  width:60px;
+  padding-right: 8px;
 }
