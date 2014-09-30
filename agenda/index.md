@@ -126,7 +126,7 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">14:55</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#">TBA</a><br /><em></em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#sissies">"Peer reviews are for sissies"</a><br /><em>Lars Kruse, Praqma</em></div>
     <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#howto">How to find and grow your own experts..</a><br /><em>Paul Speers, Speerhead</em></div>
   </div>
 

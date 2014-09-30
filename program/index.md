@@ -41,6 +41,13 @@ In this session Paul discusses how can you grow the new breed of DevOps graduate
 
 For most software development teams it is a major challenge keeping up with the rapidly changing requirements, while delivering quality software within budget and deadlines. Implementing Agile or Lean methods is a step in the right direction, but many teams find out that this doesn't really solve the problems. This presentation give a comprehensive introduction to the multifaceted landscape of Continuous Delivery, argue why it is an important part of the solution, and present some successful real-life implementations of a full Continuous Delivery automation. Based on Praqma's CD maturity model the presentation will demonstrate how the ability to continuously deliver working software requires a certain level of maturity in software development processes.
 
+## Peer reviews are for sissies
+{: #sissies}
+
+######[Lars Kruse](/speakers#lkruse), Praqma
+
+Peer reviews are not a silver bullet. They often introduce validation in the QA process at a time where verification is really what's needed.  Peer reviews represent unplanned work as well as queued work processes. The alternative; To automate your Dontinuous Delivery pipeline to an extend where you actually trust it to implement your definition of done is plain ...lean!
+
 ## The implementation of Continuous Delivery at Ziggo (UPC-Liberty Global)
 {: #cdziggo}
 
