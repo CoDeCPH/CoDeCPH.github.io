@@ -43,8 +43,7 @@ title: CoDe & DevOps Conference
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">10:10</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/program/#cdmaturity">
-    Continuous Delivery Maturity</a><br /><em>Lars Kruse, Praqma</em><br/>&nbsp;
+      <a href="/program/#cdmaturity">Continuous Delivery Maturity</a><br /><em>Lars Kruse, Praqma</em><br/>&nbsp;
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">
@@ -149,7 +148,7 @@ title: CoDe & DevOps Conference
 <div class="agenda-row">
   <div class="agenda-column agenda-column-time timestamp">15:40</div>
   <div class="agenda-column agenda-1col agenda-item">
-    <a href="/program/#usingcd">Keynote: Keynote, Using Continuous Delivery to Build Products Customers Actually Use</a><br />
+    <a href="/program/#usingcd">Keynote: Using Continuous Delivery to Build Products Customers Actually Use</a><br />
     <em>Jan Bosch, Professor of Software Engineering, Chalmers University of Technology</em>
   </div>
 </div>
