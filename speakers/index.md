@@ -110,4 +110,13 @@ title: CoDe CPH 2014 - speakers
 
 #### Speak [Game changing beliefs](/program#gamechanging)
 
-![Morten Elvang](/images/speakers/melvang.jpg){: .portrait} Morten Elvang is Principal Consultant with DELTA and Partner in WWW.LKU.DK. He received his MSc and Phd in Computer Science from the Technical University of Denmark. He has helped product and service development teams of all sizes to gain better results with less hassle.
+![Morten Elvang](/images/speakers/melvang.jpg){: .portrait} Morten Elvang is Principal Consultant with DELTA and Partner in WWW.LKU.DK. He received his MSc and Phd in Computer Science from the Technical University of Denmark. He has helped product and service development teams of all sizes to gain better results with less hassle.<br clear="both">
+
+## Florin Iten
+{: #iten}
+
+###### CEO & Founder, ESGroup
+
+#### Speak TBA
+
+![Florin Iten](/images/speakers/florin.jpg){: .portrait} Florin Iten serves as the CEO and Founder of ESGroup which was founded in 2009 to deliver outsourcing and both Offshore and Nearshore Software DevOps Services and as the Managing Partner and Founder of Sixsentix.  In 2014, Florin launched QACube and serves as the Founder & CFO of the company which delivers advanced analytics and C-Level reporting across the software delivery lifecycle.
