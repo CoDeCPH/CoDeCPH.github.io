@@ -46,7 +46,7 @@ For most software development teams it is a major challenge keeping up with the 
 
 ######[Lars Kruse](/speakers#lkruse), Praqma
 
-Peer reviews are not a silver bullet. They often introduce validation in the QA process at a time where verification is really what's needed.  Peer reviews represent unplanned work as well as queued work processes. The alternative; To automate your Dontinuous Delivery pipeline to an extend where you actually trust it to implement your definition of done is plain ...lean!
+Peer reviews are not a silver bullet. They often introduce validation in the QA process at a time where verification is really what's needed. Peer reviews represent unplanned work as well as queued work processes. The alternative: to automate your Continuous Delivery pipeline to an extend where you actually trust it to implement your definition of done - now that's lean!
 
 ## The implementation of Continuous Delivery at Ziggo (UPC-Liberty Global)
 {: #cdziggo}
