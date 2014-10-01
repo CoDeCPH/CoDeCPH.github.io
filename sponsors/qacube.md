@@ -11,4 +11,5 @@ title: Sponsors
 </div>
 
 
-The typical company has at least 50 disparate ALM tools and this makes reporting across testing tools a significant challenge without a major aggregation effort. In dynamic software delivery environments, enterprises need to see their results across projects, clusters, technologies, departments, geographies and testing tools in order to make sound strategic decisions. At every level there is a need to drill down to get to the root source and to identify defects as early as possible in the Software Delivery Lifecycle to save costs and valuable time.
+QACube is a provider of visual analytics and C-level reporting for high level maturity reporting across the software delivery lifecycle. It enables dynamic software delivery environments to see their results across
+projects, clusters, technologies, departments, geographies and disparate tools in order to make sound strategic decisions. QACube provides delivery teams with early warning signs, including where to look for hidden bottlenecks and short-comings, and to work more collaboratively for faster-time-to-market with the requisite quality.

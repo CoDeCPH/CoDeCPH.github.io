@@ -26,7 +26,7 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">9:10</div>
     <div class="agenda-column agenda-1col agenda-item">
       <a href="/program/#devops">Keynote: DevOps, Cloud and Your SDLC</a><br />
-      <em>Andi Mann, Vice President, Office of the CTO</em>
+      <em>Andi Mann, CA Technologies</em>
     </div>
   </div>
 
