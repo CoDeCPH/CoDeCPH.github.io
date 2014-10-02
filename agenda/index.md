@@ -62,8 +62,8 @@ title: CoDe & DevOps Conference
 
     <a href="/program#embedded">Implementing Continuous Delivery in practice for embedded devices</a><br/><em>Jonas Bang, Schneider Eletric & Rasmus Voss, VossCon</em></div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-    <a href="/program#sdlc">"Robust functional- and integration testing earlier in
- the SDLC is mandatory when introducing Continues Delivery"</a><br/><em>Allan Tange, Testhuset</em></div>
+    <a href="/program#sdlc">Robust functional- and integration testing earlier in
+ the SDLC is mandatory when introducing Continues Delivery</a><br/><em>Allan Tange, Testhuset</em></div>
   </div>
 
   <div class="agenda-row">
@@ -96,7 +96,7 @@ title: CoDe & DevOps Conference
 
   <a href="/program#git">A business case for Git</a><br/><em>Nicola Paolucci, Atlassian</em></div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
-  <a href="/program#scale">"DevOps At Scale"</a><br/><em>Benjamin Wootton, Contino</em></div>
+  <a href="/program#scale">DevOps At Scale</a><br/><em>Benjamin Wootton, Contino</em></div>
 </div>
 
 <div class="agenda-row">
@@ -125,7 +125,7 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">14:55</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#sissies">"Peer reviews are for sissies"</a><br /><em>Lars Kruse, Praqma</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#sissies">Peer reviews are for sissies</a><br /><em>Lars Kruse, Praqma</em></div>
     <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#howto">How to find and grow your own experts..</a><br /><em>Paul Speers, Speerhead</em></div>
   </div>
 
