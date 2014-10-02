@@ -105,3 +105,10 @@ So you want to go Git, but other stakeholders in your organisation aren't quite 
 ######[Morten Elvang](/speakers#elvang), DELTA
 
 How can you create an organization where it's possible to have success with CoDe and devops? Imagine you can chose to believe in something and that choosing the right things can fundamentally change your luck in business? Is this at all a useful way to go about creating an effective and supportive organization? And, if so, what should you chose to believe in?
+
+## The DevOps journey at Maersk Line
+{: #journey}
+
+###### Chris Gargiulo, Maersk Line
+
+TBA
