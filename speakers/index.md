@@ -117,9 +117,9 @@ title: CoDe CPH 2014 - speakers
 
 ###### CEO & Founder, ESGroup
 
-#### Speak TBA
+#### Speak [DevOps Agility: Lifecycle Reporting & Dashboards](/program#agility)
 
-![Florin Iten](/images/speakers/florin.jpg){: .portrait} Florin Iten serves as the CEO and Founder of ESGroup which was founded in 2009 to deliver outsourcing and both Offshore and Nearshore Software DevOps Services and as the Managing Partner and Founder of Sixsentix.  In 2014, Florin launched QACube and serves as the Founder & CFO of the company which delivers advanced analytics and C-Level reporting across the software delivery lifecycle.
+![Florin Iten](/images/speakers/florin.jpg){: .portrait} Florin Iten serves as the Managing Director of QACube which was founded in 2014 to deliver analytics and C-level views across the software delivery lifecycle. Additionally Florin serves as CEO and Founder of ESGroup and CFO and Founder of Sixsentix. Florin is an active innovator and serial entrepreneur in Software DevOps and reporting and an expert in keeping pace with apps.
 
 ## Chris Gargiulo
 {: #gargiulo}

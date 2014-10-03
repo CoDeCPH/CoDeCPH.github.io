@@ -106,6 +106,25 @@ So you want to go Git, but other stakeholders in your organisation aren't quite 
 
 How can you create an organization where it's possible to have success with CoDe and devops? Imagine you can chose to believe in something and that choosing the right things can fundamentally change your luck in business? Is this at all a useful way to go about creating an effective and supportive organization? And, if so, what should you chose to believe in?
 
+## DevOps Agility: Lifecycle Reporting & Dashboards
+{: #agility}
+
+######[Florin Iten](/speakers#iten), ESGroup
+
+The pace of change in DevOps is both a challenge and an opportunity. Successful enterprises know that they must look for new approaches which enable decision-making across the entire lifecycle. With so many different tools being used across the DevOps Cycle is there an easier way to provide transparency and visibility across projects, clusters, geographies, departments and divisions? How can enterprises leverage better decision making coupled with perfect resource planning for successful and predictable outcomes?
+
+This session will explain analytics and C-Level views and reporting that covers the entire maturity curve from operational to monitoring to tactical to strategic views of the DevOps Cycle. Find out how Cross Border reporting can improve the quality of software DevOps and deliver the expert navigation essential to a “no wrong turns” Continuous Delivery Life Cycle.
+
+Attendees will learn how to:<br clear="both">
+• avoid false starts and wrong turns<br clear="both">
+• get back on track<br clear="both">
+• prioritize the risks and actions needed at every stage<br clear="both">
+• lower risks and keep pace with apps<br clear="both">
+
+As the adoption of agile development and Continuous Delivery increases, outcome like volume and frequents of releases put pressure on test and quality organizations. In order to address that, a more robust functional- and integration testing earlier in the SDLC is mandatory. However to accommodate that, production-like test environments are often needed and typically come at a high cost. Occasionally, it is even impossible due to third party limitations.
+
+This session will explain how the concept of risk based DevOps and Analytics and All-in-One Reporting accelerates agility for improving the quality delivery of Software applications in a Continuous Lifecycle.
+
 ## DevOps and Moving the Elephant
 {: #elephant}
 
