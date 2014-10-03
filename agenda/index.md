@@ -108,7 +108,7 @@ title: CoDe & DevOps Conference
   <div class="agenda-column agenda-column-time timestamp">13:40</div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-  <a href="/program#journey">The DevOps journey at Maersk Line</a><br/><em>Chris Gargiulo, Maersk Line</em></div>
+  <a href="/program#elephant">DevOps and Moving the Elephant</a><br/><em>Chris Gargiulo, Maersk Group Infrastructure Services</em></div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
   <a href="/program#">TBA</a><br/><em></em></div>
 </div>

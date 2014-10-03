@@ -120,3 +120,12 @@ title: CoDe CPH 2014 - speakers
 #### Speak TBA
 
 ![Florin Iten](/images/speakers/florin.jpg){: .portrait} Florin Iten serves as the CEO and Founder of ESGroup which was founded in 2009 to deliver outsourcing and both Offshore and Nearshore Software DevOps Services and as the Managing Partner and Founder of Sixsentix.  In 2014, Florin launched QACube and serves as the Founder & CFO of the company which delivers advanced analytics and C-Level reporting across the software delivery lifecycle.
+
+## Chris Gargiulo
+{: #gargiulo}
+
+###### Head of DevOps and Enterprise Service Platforms, Maersk Group Infrastructure Services
+
+#### Speak [DevOps and Moving the Elephant](/program#elephant)
+
+![Chris Gargiulo](/images/speakers/gargiulo.jpg){: .portrait} Chris Gargiulo has worked in the IT industry for the past 20 years. Having worked in areas such technology training, application delivery, business platform development and operations. Throughout this career he has held several leadership positions, including his current role as head of DevOps and Enterprise Platform Services in Maersk Group IS. Over the last four years, while working for Maersk, he has established and built a broad DevOps organization that is located across three different countries in Europe and Asia. He is also a strong believer that the key to making new DevOps work for an existing organization, you must prove yourself at every step along the way. This is what is called moving the elephant.
