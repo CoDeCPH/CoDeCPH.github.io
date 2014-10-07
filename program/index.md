@@ -109,7 +109,7 @@ How can you create an organization where it's possible to have success with CoDe
 ## DevOps Agility: Lifecycle Reporting & Dashboards
 {: #agility}
 
-######[Florin Iten](/speakers#iten), ESGroup
+######[Florin Iten](/speakers#iten), QACube
 
 The pace of change in DevOps is both a challenge and an opportunity. Successful enterprises know that they must look for new approaches which enable decision-making across the entire lifecycle. With so many different tools being used across the DevOps Cycle is there an easier way to provide transparency and visibility across projects, clusters, geographies, departments and divisions? How can enterprises leverage better decision making coupled with perfect resource planning for successful and predictable outcomes?
 

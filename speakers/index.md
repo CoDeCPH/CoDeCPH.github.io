@@ -115,7 +115,7 @@ title: CoDe CPH 2014 - speakers
 ## Florin Iten
 {: #iten}
 
-###### CEO & Founder, ESGroup
+###### Managing Director, QACube
 
 #### Speak [DevOps Agility: Lifecycle Reporting & Dashboards](/program#agility)
 

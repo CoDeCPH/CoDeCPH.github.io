@@ -136,7 +136,7 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">15:15</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#agility">DevOps Agility: Lifecycle Reporting & Dashboards</a><br/><em>Florin Iten, ESGroup</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#agility">DevOps Agility: Lifecycle Reporting & Dashboards</a><br/><em>Florin Iten, QACube</em></div>
     <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#xrayed">Continuous Delivery X-rayed<br /></a><em>Lars Bendix, Lund University</em></div>
   </div>
 
