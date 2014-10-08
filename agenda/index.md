@@ -63,7 +63,7 @@ title: CoDe & DevOps Conference
     <a href="/program#embedded">Implementing Continuous Delivery in practice for embedded devices</a><br/><em>Jonas Bang, Schneider Eletric & Rasmus Voss, VossCon</em></div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
     <a href="/program#sdlc">Robust functional- and integration testing earlier in
- the SDLC is mandatory when introducing Continues Delivery</a><br/><em>Allan Tange, Testhuset</em></div>
+ the SDLC is mandatory when introducing Continuous Delivery (In Danish)</a><br/><em>Allan Tange, Testhuset</em></div>
   </div>
 
   <div class="agenda-row">
