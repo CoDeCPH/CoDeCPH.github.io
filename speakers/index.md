@@ -129,3 +129,12 @@ title: CoDe CPH 2014 - speakers
 #### Speak [DevOps and Moving the Elephant](/program#elephant)
 
 ![Chris Gargiulo](/images/speakers/gargiulo.jpg){: .portrait} Chris Gargiulo has worked in the IT industry for the past 20 years. Having worked in areas such technology training, application delivery, business platform development and operations. Throughout this career he has held several leadership positions, including his current role as head of DevOps and Enterprise Platform Services in Maersk Group IS. Over the last four years, while working for Maersk, he has established and built a broad DevOps organization that is located across three different countries in Europe and Asia. He is also a strong believer that the key to making DevOps work for an existing organization, you must prove yourself at every step along the way. This is what is called moving the elephant.
+
+## Per Arnold Blaasmo
+{: #blaasmo}
+
+###### Senior Software Craftsman, Atmel Norway
+
+#### Speak [On the way towards the vision of DevOps](/program#vision)
+
+![Per Arnold Blaasmo](/images/speakers/parnold.jpg){: .portrait} Department and Project Manager within software development and design in a wide variety of business areas such as transport, telecom, banking, mobile devices, and micro controllers. Main focus on software for both embedded applications and for user applications. Currently responsible for deploying Continuous Deployment troughout Atmel Corporation and the tool stack that supports it.

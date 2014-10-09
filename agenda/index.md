@@ -74,10 +74,7 @@ title: CoDe & DevOps Conference
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">12:20</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/program/#TBA">
-    On the way towards the vision of DevOps
-      </a><br />
-      <em>Per Arnold Blåsmo, Atmel</em>
+      <a href="/program/#vision"> On the way towards the vision of DevOps</a><br /><em>Per Arnold Blaasmo, Atmel Norway</em>
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">

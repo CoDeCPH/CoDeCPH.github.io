@@ -131,3 +131,10 @@ This session will explain how the concept of risk based DevOps and Analytics and
 ######[Chris Gargiulo](/speakers#gargiulo), Maersk Group Infrastructure Services
 
 Introducing DevOps as a methodology for delivering business value into an existing organization has many challanges. One of the largest being that of going against long established norms and processes. In the presentation, 'DevOps and Moving the Elephant', I will present a brief history of the progress made within Maersk Line IT and now Maersk Group IS that have helped make the difference in being able to anchor critical changes in how IT infrastructure is delivered and managed using DevOps methods.
+
+## On the way towards the vision of DevOps
+{: #vision}
+
+######[Per Arnold Blaasmo](/speakers#blaasmo), Atmel Norway
+
+A talk about the challenges and experiences for Atmel when moving from a Waterfall model to a DevOps model with Continuous Deployment, when doing software development in a global company.
