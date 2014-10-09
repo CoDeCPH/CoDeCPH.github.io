@@ -25,18 +25,13 @@ Is your company mature? Take the test
 <img src="/images/maturity_model_web.png" class="stdcenter" style="width:600.">
 </a><br/>
 
-**Catering**<br/>
-Lunch, drinks and snacks are served on-site throughout the day.
-
-**Parking at the Hotel Marriott Copenhagen**<br/>
+###Parking at the Hotel Marriott Copenhagen<br/>
 There are a 3 parking lots around Hotel Marriott Copenhagen:
 
-- Hotel Marriotts own parking lot and next to the hotel a public parking lot.
+- Hotel Marriotts own parking lot and next to the hotel a public parking lot.<br/>
 - There are also a public parking lot a cross from the hotel you can use.
 
-**Accommodation**<br/>
-Book a hotel room at Hotel Mariott Copenhagen.
-Hotel Marriott Copenhagen **price rate is 1,999.00 DKK per night** for a single room, breakfast and VAT included.<br/>
+###Accommodation<br/>
 Please let us know if you are planning to stay at the Mariott Hotel Copenhagen and we will be happy to assist you with any reservations. For assistance please [send us a mail](mailto:ah@praqma.net)
 
 ###Information to sponsors<br/>
