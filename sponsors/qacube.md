@@ -2,12 +2,11 @@
 layout: sponsor
 title: Sponsors
 ---
-#QACube
 <div style="width:200px;float:left;padding:20px">
   <div style="height:200px;position:relative;">
-    <img style="position: absolute; bottom: 0;width:200px" src="/images/sponsors/qacube.png" />
+    <a href="http://www.qa-cube.com" target="_blank"><img style="position: absolute; top: 0;width:200px" src="/images/sponsors/qacube.png" /></a>
   </div>
-  <div style="height:40px;text-align:center;font-size:82%;">Silver sponsor<br/></div>
+  <div style="height:40px;text-align:center;font-size:82%;"><br/></div>
 </div>
 
 

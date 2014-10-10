@@ -2,12 +2,12 @@
 layout: sponsor
 title: Sponsors
 ---
-#Atlassian
+
 <div style="width:200px;float:left;padding:20px">
   <div style="height:200px;position:relative;">
-    <img style="position: absolute; bottom: 0;width:200px" src="/images/sponsors/atlassian.png" />
-  </div>
-  <div style="height:40px;text-align:center;font-size:82%;">Silver sponsor<br/></div>
+    <a href="http://www.atlassian.com" target="_blank"><img style="position: absolute; top: 0;width:200px" src="/images/sponsors/atlassian.png" /></a>
+  </div></a>
+  <div style="height:40px;text-align:center;font-size:82%;"><br/></div>
 </div>
 
 
