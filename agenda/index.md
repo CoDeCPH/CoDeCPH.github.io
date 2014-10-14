@@ -12,7 +12,7 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">8:00</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Registration &amp; light breakfast</strong></div>
+    <div class="agenda-column agenda-1col agenda-item"><strong>Registration &amp; Light Breakfast</strong></div>
   </div>
 
   <div class="agenda-row">
