@@ -138,3 +138,12 @@ title: CoDe CPH 2014 - speakers
 #### Speak [On the way towards the vision of DevOps](/program#vision)
 
 ![Per Arnold Blaasmo](/images/speakers/parnold.jpg){: .portrait} Department and Project Manager within software development and design in a wide variety of business areas such as transport, telecom, banking, mobile devices, and micro controllers. Main focus on software for both embedded applications and for user applications. Currently responsible for deploying Continuous Deployment troughout Atmel Corporation and the tool stack that supports it.
+
+## Austin Bingham
+{: #bingham}
+
+###### Technical Director, Sixty North AS
+
+#### Speak [Making the Case for Review](/program#making)
+
+![Austin Bingham](/images/speakers/abingham.jpg){: .portrait} Austin is a founding director of Sixty North, a software consulting, training, and application development company. A native of Texas, in 2008 Austin moved to Stavanger, Norway where he helped develop industry-leading oil reservoir modeling software in C++ and Python. Prior to that he worked at National Instruments developing LabVIEW, at Applied Research Labs (Univ. of Texas at Austin) developing sonar systems for the U.S. Navy, and at a number of telecommunications companies. He is an experienced presenter and teacher, having spoken at numerous conferences, software groups, and internal corporate venues. Austin is also an active member of the Open Source community, contributing regularly to various Python and Emacs projects, and he’s the founder of Stavanger Software Developers, one of the largest and most active social software groups in Stavanger. Austin holds a Master of Science in Computer Engineering from the University of Texas at Austin.

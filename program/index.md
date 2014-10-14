@@ -138,3 +138,10 @@ Introducing DevOps as a methodology for delivering business value into an existi
 ######[Per Arnold Blaasmo](/speakers#blaasmo), Atmel Norway
 
 A talk about the challenges and experiences for Atmel when moving from a Waterfall model to a DevOps model with Continuous Deployment, when doing software development in a global company.
+
+## Making the Case for Review
+{: #making}
+
+######[Austin Bingham](/speakers#bingham), Sixty North AS
+
+Reviews are a powerful tool for building quality software, but it can sometimes be difficult to convince your team to use them. In this presentation we’ll look at the research behind reviews, the benefits they can provide, and some best practices for using them effectively. Armed with this knowledge, you’ll be able to make informed decisions about - and strong arguments for - using reviews on your projects.

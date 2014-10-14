@@ -107,7 +107,7 @@ title: CoDe & DevOps Conference
 
   <a href="/program#elephant">DevOps and Moving the Elephant</a><br/><em>Chris Gargiulo, Maersk Group Infrastructure Services</em></div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
-  <a href="/program#">TBA</a><br/><em></em></div>
+  <a href="/program#making">Making the Case for Review</a><br/><em>Austin Bingham, Sixty North AS</em></div>
 </div>
 
   <div class="agenda-row">
