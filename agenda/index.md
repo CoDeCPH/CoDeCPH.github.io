@@ -156,5 +156,5 @@ title: CoDe & DevOps Conference
 
 <div class="agenda-row">
   <div class="agenda-column agenda-column-time timestamp">16:55</div>
-  <div class="agenda-column agenda-1col agenda-break"><strong>Wrap Up</strong></div>
+  <div class="agenda-column agenda-1col agenda-item"><strong>Wrap Up</strong></div>
 </div>
