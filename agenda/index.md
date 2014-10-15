@@ -47,7 +47,7 @@ title: CoDe & DevOps Conference
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/program/#cdziggo">The implementation of Continuous Delivery at Ziggo (UPC-Liberty Global)</a><br /><em>Michiel Sens, Xebia </em><br/>
+      <a href="/program/#cdziggo">The Implementation of Continuous Delivery at Ziggo (UPC-Liberty Global)</a><br /><em>Michiel Sens, Xebia </em><br/>
     </div>
   </div>
 
@@ -65,10 +65,10 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">11:05</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-    <a href="/program#embedded">Implementing Continuous Delivery in practice for embedded devices</a><br/><em>Jonas Bang, Schneider Eletric & Rasmus Voss, VossCon</em></div>
+    <a href="/program#embedded">Implementing Continuous Delivery in Practice for Embedded Devices</a><br/><em>Jonas Bang, Schneider Eletric & Rasmus Voss, VossCon</em></div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-    <a href="/program#sdlc">Robust functional- and integration testing earlier in
- the SDLC is mandatory when introducing Continuous Delivery (In Danish)</a><br/><em>Allan Tange, Testhuset</em></div>
+    <a href="/program#sdlc">Robust Functional- and Integration Testing Earlier in
+ the SDLC is Mandatory When Introducing Continuous Delivery (In Danish)</a><br/><em>Allan Tange, Testhuset</em></div>
   </div>
 
   <div class="agenda-row">
@@ -79,11 +79,11 @@ title: CoDe & DevOps Conference
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">12:20</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/program/#vision"> On the way towards the vision of DevOps</a><br /><em>Per Arnold Blaasmo, Atmel Norway</em>
+      <a href="/program/#vision"> On the Way Towards the Vision of DevOps</a><br /><em>Per Arnold Blaasmo, Atmel Norway</em>
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/program/#gamechanging">Game changing beliefs</a><br /><em>Morten Elvang, DELTA</em>
+      <a href="/program/#gamechanging">Game Changing Beliefs</a><br /><em>Morten Elvang, DELTA</em>
     </div>
   </div>
 
@@ -96,9 +96,9 @@ title: CoDe & DevOps Conference
   <div class="agenda-column agenda-column-time timestamp">13:00</div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-  <a href="/program#git">A business case for Git</a><br/><em>Nicola Paolucci, Atlassian</em></div>
+  <a href="/program#git">A Business Case for Git</a><br/><em>Nicola Paolucci, Atlassian</em></div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
-  <a href="/program#scale">DevOps At Scale</a><br/><em>Benjamin Wootton, Contino</em></div>
+  <a href="/program#scale">DevOps at Scale</a><br/><em>Benjamin Wootton, Contino</em></div>
 </div>
 
 <div class="agenda-row">
@@ -112,7 +112,8 @@ title: CoDe & DevOps Conference
 
   <a href="/program#elephant">DevOps and Moving the Elephant</a><br/><em>Chris Gargiulo, Maersk Group Infrastructure Services</em></div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
-  <a href="/program#making">Making the Case for Review</a><br/><em>Austin Bingham, Sixty North AS</em></div>
+
+  <a href="/program#making">Making the Case for Review</a><br/><em>Austin Bingham, Sixty North</em></div>
 </div>
 
   <div class="agenda-row">
@@ -127,8 +128,8 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">14:55</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#sissies">Peer reviews are for sissies</a><br /><em>Lars Kruse, Praqma</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#howto">How to find and grow your own experts..</a><br /><em>Paul Speers, Speerhead</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#sissies">Peer Reviews Are for Sissies</a><br /><em>Lars Kruse, Praqma</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#howto">How to Find and Grow Your Own Experts..</a><br /><em>Paul Speers, Speerhead</em></div>
   </div>
 
   <div class="agenda-row">
@@ -157,7 +158,9 @@ title: CoDe & DevOps Conference
 
 <div class="agenda-row">
   <div class="agenda-column agenda-column-time timestamp">16:25</div>
-  <div class="agenda-column agenda-1col agenda-item"><a href="/program/#panel">Panel Discussion - All presenters on stage</a><br/><em>Topics from audience: Tweet'em to <a href="/social/tweets.html">@codecph</a> during the day</em></div>
+
+  <div class="agenda-column agenda-1col agenda-item"><a href="/program/#panel">Panel Discussion - All Presenters on Stage</a><br/><em>Topics from audience: Tweet'em to <a href="/social/tweets.html">@codecph</a> during the day</em></div>
+
 
 <div class="agenda-row">
   <div class="agenda-column agenda-column-time timestamp">16:55</div>
