@@ -51,6 +51,11 @@ title: CoDe & DevOps Conference
     </div>
   </div>
 
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">10:55</div>
+    <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
+  </div>
+
 <div class="agenda-row">
   <div class="agenda-column agenda-column-time">&nbsp;</div>
   <div class="agenda-column agenda-1col agenda-header-item">30 Minutes Per Session</div>
