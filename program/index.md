@@ -83,7 +83,7 @@ The presentation will be concrete, but subjective, so consider yourself warned.
 
 How does Continuous Delivery (and DevOps) look like from "the Ivory Tower" (the academic point of view)? A lightning analysis of why you might want to use Continuous Delivery and what you should probably look out for if you want to succeed. Spiffed up with some practical experience (aka Lessons Learned) from student projects - that might or might not relate to "the real world".
 
-## Robust functional- and integration testing earlier in the SDLC is mandatory when introducing Continuous Delivery (In Danish)
+## Robust functional- and integration testing earlier in the SDLC is mandatory when introducing Continuous Delivery
 {: #sdlc}
 
 ######[Allan Tange](/speakers#tange), Testhuset
