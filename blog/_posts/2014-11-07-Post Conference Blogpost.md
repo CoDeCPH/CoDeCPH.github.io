@@ -9,14 +9,20 @@ authors: [Morten Elvang]
 
 **The Continuous Delivery & DevOps conference was held on October 22nd, 2014 in the heart of Copenhagen organized by Praqma together with co-host CA technologies and XebiaLabs, Atlassian & QACube as participating sponsors. The Marriott Hotel Copenhagen made for the conference venue for the 200 attendees who were gathered to gain insight on the current trends of Continuous Delivery & DevOps.**
 
-
 #### CoDeCPH 2014
 
 With two parallel tracks the program was designed so that the keynote speakers took the main stage in front of all attendees and presentations were run on two tracks, giving attendees the freedom to pick and choose the presentations of interest. The program ended with a final panel discussion, where the entire speaker roster took stage to elaborate on their statements as well as allowing attendees to get any questions arisen through the day answered.
 
+![Evolution of Continuous Delivery](/images/welcome.jpg)
+
 Andi Mann from CA Technologies presented the initial Keynote speak on the effectiveness of Cloud Computing and how to understand DevOps as a modern term in the development environment congregating Culture, Automation, Measurement, and Sharing (CAMS). Interaction between CAMS is crucial in order to achieve collaboration between Development and Operations as well as accelerate the release of new capabilities.
 
-![Evolution of Continuous Delivery](/images/welcome.jpg)
+#### The need for Continuous Delivery
+Throughout the day, speakers shared different perspective on topics closely related to Continuous Delivery and DevOps. Some had a more theoretical approach while others presented “tales from the trenches” approaching both the different organizational as well as technical challenges in global corporations as well as smaller setups. However, common for all was the increasing need for Continuous Delivery and DevOps.
+
+![Continuous Delivery & DevOps presentation](/images/pres.jpg)
+
+Andi Mann from CA Technologies presented the initial Keynote speak on the effectiveness of Cloud Computing and how to understand DevOps as a modern term in the development environment congregating Culture, Automation, Measurement, and Sharing (CAMS). Interaction between CAMS is crucial in order to achieve collaboration between Development and Operations as well as accelerate the release of new capabilities.
 
 #### The need for Continuous Delivery
 Throughout the day, speakers shared different perspective on topics closely related to Continuous Delivery and DevOps. Some had a more theoretical approach while others presented “tales from the trenches” approaching both the different organizational as well as technical challenges in global corporations as well as smaller setups. However, common for all was the increasing need for Continuous Delivery and DevOps.
