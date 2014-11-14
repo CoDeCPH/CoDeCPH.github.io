@@ -2,7 +2,7 @@
 layout: sponsor
 title: Sponsors
 ---
-#Organizers, hosts and sponsors
+#Organizers, Hosts and Sponsors
 
 <div style="width:200px;float:left;">
   <div style="height:200px;position:relative;">
