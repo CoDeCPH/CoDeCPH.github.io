@@ -8,11 +8,7 @@ title: CoDe CPH Conference 2014 Front
 ##In the heart of Copenhagen.
 __October 22nd, 2014 at the Marriott Hotel Copenhagen.__
 
-<<<<<<< HEAD
 ######<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Thanks to everyone who attended the conference. It's fair to conclude that the conference was a great success! Didn't have time to go? Get all the presentation slides [HERE!](https://drive.google.com/folderview?id=0B7COmBHPVvgEelpvZFNUX3F0VWs&usp=sharing){: target="_blank"} Stay tuned for CoDeOSL, in Oslo April 2015!</span>
-=======
-######<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Thanks to everyone who attended the conference. It's fair to conclude that the conference was a great success! Didn't have time to go? Get all the presentation slides [HERE!](https://drive.google.com/folderview?id=0B7COmBHPVvgEelpvZFNUX3F0VWs&usp=sharing){: target="_blank"} Stay tuned for the CoDeOSL, in Oslo April 2015!</span>
->>>>>>> f3cd052d3af9de24c446a5d06e6a05a616c51a70
 
 ######Copenhagen now got its own conference on Continuous Delivery & DevOps. The conference name <span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">CoDe</span> is referring to Continuous Delivery and at the same time indicates what we're dealing with; software development.
 
