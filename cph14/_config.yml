@@ -2,6 +2,6 @@ name: CoDeCPH14
 highlighter: pygments
 exclude: [README.md]
 timezone: Europe/Copenhagen
-url: www.code-conf.com/cph14
+url: www.code-conf.com/cph14/
 baseurl: /cph14
 markdown: kramdown
