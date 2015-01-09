@@ -6,7 +6,7 @@ title: Agenda
 
 ###Continuous Delivery & DevOps Copenhagen - 2014
 
-The agenda is being prepared - we're asking for papers! Submit anything you have - or if you'd like to recommend a good speaker on the topic of Continuous delivery and DevOps tweet it on [#codecph](/social/tweets.html).
+The agenda is being prepared - we're asking for papers! Submit anything you have - or if you'd like to recommend a good speaker on the topic of Continuous delivery and DevOps tweet it on [#codecph](/cph14/social/tweets.html).
 
 We're adopting the TED Commandments - they are well thought through and proven.
 
