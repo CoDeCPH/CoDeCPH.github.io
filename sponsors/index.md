@@ -13,7 +13,7 @@ title: Sponsors
 
 <div style="width:200px;float:left;">
   <div style="height:200px;position:relative;">
-    <a href="{{site.root}}/sponsors/ca.html"><img style="position: absolute; bottom: 0;width:200px" src="/cph14/images/sponsors/CA_logo.png" /></a>
+    <a href="{{site.root}}/sponsors/ca.html"><img style="position: absolute; bottom: 0;width:200px" src="{{site.root}}/images/sponsors/CA_logo.png" /></a>
   </div>
   <div style="height:40px;text-align:center;font-size:82%;">Platinum sponsor<br/> and co-host</div>
 </div>
@@ -21,7 +21,7 @@ title: Sponsors
 
 <div style="width:200px;float:left;">
   <div style="height:200px;position:relative;">
-    <a href="{{site.root}}/sponsors/xebialabs.html"><img style="position: absolute; bottom: 0;width:200px" src="/cph14/images/sponsors/XebiaLabs.png" /></a>
+    <a href="{{site.root}}/sponsors/xebialabs.html"><img style="position: absolute; bottom: 0;width:200px" src="{{site.root}}/images/sponsors/XebiaLabs.png" /></a>
   </div>
   <div style="height:40px;text-align:center;font-size:82%;">Gold sponsor<br/></div>
 </div>
@@ -29,14 +29,14 @@ title: Sponsors
 
 <div style="width:200px;float:left;">
   <div style="height:200px;position:relative;">
-    <a href="{{site.root}}/sponsors/atlassian.html"><img style="position: absolute; bottom: 0;width:200px" src="/cph14/images/sponsors/atlassian.png" /></a>
+    <a href="{{site.root}}/sponsors/atlassian.html"><img style="position: absolute; bottom: 0;width:200px" src="{{site.root}}/images/sponsors/atlassian.png" /></a>
 </div>
 <div style="height:40px;text-align:center;font-size:82%;">Silver sponsor<br/></div>
 </div>
 
 <div style="width:200px;float:left;padding:10px">
   <div style="height:200px;position:relative;">
-    <a href="{{site.root}}/sponsors/qacube.html"><img style="position: absolute; bottom: 0;width:200px" src="/cph14/images/sponsors/qacube.png" /></a>
+    <a href="{{site.root}}/sponsors/qacube.html"><img style="position: absolute; bottom: 0;width:200px" src="{{site.root}}/images/sponsors/qacube.png" /></a>
   </div>
   <div style="height:40px;text-align:center;font-size:82%;">Silver sponsor<br/></div>
 </div>
